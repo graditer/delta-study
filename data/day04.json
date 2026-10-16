@@ -1,0 +1,587 @@
+{
+  "day": 4,
+  "id": "day04",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 72,
+  "declaredCount": 72,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day04/",
+  "items": [
+    {
+      "id": "day04:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "걔(여자), 귀여워.",
+      "en": "She is cute."
+    },
+    {
+      "id": "day04:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "걔(여자) 귀여워?",
+      "en": "Is she cute?"
+    },
+    {
+      "id": "day04:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "걔(여자), 안 귀여워.",
+      "en": "She isn't cute."
+    },
+    {
+      "id": "day04:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "걔(여자) 안 귀여워?",
+      "en": "Isn't she cute?"
+    },
+    {
+      "id": "day04:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자), 매력 있어.",
+      "en": "He is attractive."
+    },
+    {
+      "id": "day04:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자) 매력 있어?",
+      "en": "Is he attractive?"
+    },
+    {
+      "id": "day04:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자), 매력 없어.",
+      "en": "He isn't attractive."
+    },
+    {
+      "id": "day04:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자) 매력 없니?",
+      "en": "Isn't he attractive?"
+    },
+    {
+      "id": "day04:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나 돈이 다 떨어졌어.",
+      "en": "I'm broke."
+    },
+    {
+      "id": "day04:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 돈 다 떨어졌어?",
+      "en": "Are you broke?"
+    },
+    {
+      "id": "day04:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나 돈 다 떨어진 거 아니야.",
+      "en": "I'm not broke."
+    },
+    {
+      "id": "day04:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 돈 다 떨어진 거 아니야?",
+      "en": "Aren't you broke?"
+    },
+    {
+      "id": "day04:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "우리 아빠는 무서워.",
+      "en": "My father is scary."
+    },
+    {
+      "id": "day04:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너희 아버지 무서우셔?",
+      "en": "Is your father scary?"
+    },
+    {
+      "id": "day04:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "우리 아빠는 안 무서워.",
+      "en": "My father isn't scary."
+    },
+    {
+      "id": "day04:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너희 아버지 안 무서우셔?",
+      "en": "Isn't your father scary?"
+    },
+    {
+      "id": "day04:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "오늘 수업은 중요해.",
+      "en": "Today's class is important."
+    },
+    {
+      "id": "day04:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "오늘 수업 중요해?",
+      "en": "Is today's class important?"
+    },
+    {
+      "id": "day04:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "오늘 수업은 안 중요해.",
+      "en": "Today's class isn't important."
+    },
+    {
+      "id": "day04:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "오늘 수업 안 중요해?",
+      "en": "Isn't today's class important?"
+    },
+    {
+      "id": "day04:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자), 목소리가 커.",
+      "en": "He is loud."
+    },
+    {
+      "id": "day04:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자) 목소리 커?",
+      "en": "Is he loud?"
+    },
+    {
+      "id": "day04:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자), 목소리 안 커.",
+      "en": "He isn't loud."
+    },
+    {
+      "id": "day04:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자) 목소리 안 커?",
+      "en": "Isn't he loud?"
+    },
+    {
+      "id": "day04:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자) 친구들은 무례해.",
+      "en": "Her friends are rude."
+    },
+    {
+      "id": "day04:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자) 친구들 무례해?",
+      "en": "Are her friends rude?"
+    },
+    {
+      "id": "day04:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자) 친구들은 안 무례해.",
+      "en": "Her friends aren't rude."
+    },
+    {
+      "id": "day04:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자) 친구들 안 무례해?",
+      "en": "Aren't her friends rude?"
+    },
+    {
+      "id": "day04:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "저 남자애들은 잘생겼어.",
+      "en": "Those guys are good-looking."
+    },
+    {
+      "id": "day04:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "저 남자애들 잘생겼어?",
+      "en": "Are those guys good-looking?"
+    },
+    {
+      "id": "day04:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "저 남자애들은 안 잘생겼어.",
+      "en": "Those guys aren't good-looking."
+    },
+    {
+      "id": "day04:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "저 남자애들 안 잘생겼어?",
+      "en": "Aren't those guys good-looking?"
+    },
+    {
+      "id": "day04:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "우리 조원들은 늦어.",
+      "en": "My group members are late."
+    },
+    {
+      "id": "day04:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너희 조원들 늦어?",
+      "en": "Are your group members late?"
+    },
+    {
+      "id": "day04:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "우리 조원들은 안 늦어.",
+      "en": "My group members aren't late."
+    },
+    {
+      "id": "day04:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너희 조원들 안 늦어?",
+      "en": "Aren't your group members late?"
+    },
+    {
+      "id": "day04:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "그 시험은 어려워.",
+      "en": "The test is difficult."
+    },
+    {
+      "id": "day04:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "그 시험 어려워?",
+      "en": "Is the test difficult?"
+    },
+    {
+      "id": "day04:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "그 시험은 안 어려워.",
+      "en": "The test isn't difficult."
+    },
+    {
+      "id": "day04:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "그 시험 안 어려워?",
+      "en": "Isn't the test difficult?"
+    },
+    {
+      "id": "day04:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 요리들은 인기가 많아.",
+      "en": "These dishes are popular."
+    },
+    {
+      "id": "day04:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 요리들 인기 많아?",
+      "en": "Are these dishes popular?"
+    },
+    {
+      "id": "day04:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 요리들은 인기 많지 않아.",
+      "en": "These dishes aren't popular."
+    },
+    {
+      "id": "day04:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 요리들 인기 많지 않아?",
+      "en": "Aren't these dishes popular?"
+    },
+    {
+      "id": "day04:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 답은 틀렸어.",
+      "en": "The answer is wrong."
+    },
+    {
+      "id": "day04:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 답 틀렸어?",
+      "en": "Is the answer wrong?"
+    },
+    {
+      "id": "day04:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 답은 안 틀렸어.",
+      "en": "The answer isn't wrong."
+    },
+    {
+      "id": "day04:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 답 안 틀렸어?",
+      "en": "Isn't the answer wrong?"
+    },
+    {
+      "id": "day04:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "우리 남동생은 솔로야.",
+      "en": "My brother is single."
+    },
+    {
+      "id": "day04:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "너희 남동생 솔로야?",
+      "en": "Is your brother single?"
+    },
+    {
+      "id": "day04:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "우리 남동생은 솔로가 아니야.",
+      "en": "My brother isn't single."
+    },
+    {
+      "id": "day04:13.(4)",
+      "num": "13.(4)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "너희 남동생 솔로 아니야?",
+      "en": "Isn't your brother single?"
+    },
+    {
+      "id": "day04:14.(1)",
+      "num": "14.(1)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "PSE는 붐비는 곳이야.",
+      "en": "PSE is a crowded place."
+    },
+    {
+      "id": "day04:14.(2)",
+      "num": "14.(2)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "PSE는 붐비는 곳이야?",
+      "en": "Is PSE a crowded place?"
+    },
+    {
+      "id": "day04:14.(3)",
+      "num": "14.(3)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "PSE는 붐비는 곳이 아니야.",
+      "en": "PSE isn't a crowded place."
+    },
+    {
+      "id": "day04:14.(4)",
+      "num": "14.(4)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "PSE는 붐비는 곳 아니야?",
+      "en": "Isn't PSE a crowded place?"
+    },
+    {
+      "id": "day04:15.(1)",
+      "num": "15.(1)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔(여자) 남자친구는 좋은 사람이야.",
+      "en": "Her boyfriend is a good guy."
+    },
+    {
+      "id": "day04:15.(2)",
+      "num": "15.(2)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔(여자) 남자친구 좋은 사람이야?",
+      "en": "Is her boyfriend a good guy?"
+    },
+    {
+      "id": "day04:15.(3)",
+      "num": "15.(3)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔(여자) 남자친구는 좋은 사람이 아니야.",
+      "en": "Her boyfriend isn't a good guy."
+    },
+    {
+      "id": "day04:15.(4)",
+      "num": "15.(4)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔(여자) 남자친구 좋은 사람 아니야?",
+      "en": "Isn't her boyfriend a good guy?"
+    },
+    {
+      "id": "day04:16.(1)",
+      "num": "16.(1)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "이거 웃긴 영화야.",
+      "en": "This is a funny movie."
+    },
+    {
+      "id": "day04:16.(2)",
+      "num": "16.(2)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "이거 웃긴 영화야?",
+      "en": "Is this a funny movie?"
+    },
+    {
+      "id": "day04:16.(3)",
+      "num": "16.(3)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "이거 웃긴 영화 아니야.",
+      "en": "This isn't a funny movie."
+    },
+    {
+      "id": "day04:16.(4)",
+      "num": "16.(4)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "이거 웃긴 영화 아니야?",
+      "en": "Isn't this a funny movie?"
+    },
+    {
+      "id": "day04:17.(1)",
+      "num": "17.(1)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이거 센 술이야.",
+      "en": "This is a strong drink."
+    },
+    {
+      "id": "day04:17.(2)",
+      "num": "17.(2)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이거 센 술이야?",
+      "en": "Is this a strong drink?"
+    },
+    {
+      "id": "day04:17.(3)",
+      "num": "17.(3)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이거 센 술 아니야.",
+      "en": "This isn't a strong drink."
+    },
+    {
+      "id": "day04:17.(4)",
+      "num": "17.(4)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이거 센 술 아니야?",
+      "en": "Isn't this a strong drink?"
+    },
+    {
+      "id": "day04:18.(1)",
+      "num": "18.(1)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "William은 입맛이 까다로워.",
+      "en": "William is a picky eater."
+    },
+    {
+      "id": "day04:18.(2)",
+      "num": "18.(2)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "William 입맛 까다로워?",
+      "en": "Is William a picky eater?"
+    },
+    {
+      "id": "day04:18.(3)",
+      "num": "18.(3)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "William은 입맛 안 까다로워.",
+      "en": "William isn't a picky eater."
+    },
+    {
+      "id": "day04:18.(4)",
+      "num": "18.(4)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "William 입맛 안 까다로워?",
+      "en": "Isn't William a picky eater?"
+    }
+  ]
+}

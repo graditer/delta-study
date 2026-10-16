@@ -1,0 +1,391 @@
+{
+  "day": 15,
+  "id": "day15",
+  "title": "A/B 대화 Drilling!",
+  "format": "dialogue",
+  "count": 38,
+  "declaredCount": 38,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day15/",
+  "items": [
+    {
+      "id": "day15:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "이 셔츠 사이즈가 몇이에요?",
+      "a_en": "What size is this shirt?",
+      "b_kr": "large입니다.",
+      "b_en": "It is a large."
+    },
+    {
+      "id": "day15:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너, 무슨 버스 타?",
+      "a_en": "What bus do you take?",
+      "b_kr": "난 300번 타.",
+      "b_en": "I take the #300."
+    },
+    {
+      "id": "day15:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너, 휴대전화 뭐 샀어?",
+      "a_en": "What cell phone did you buy?",
+      "b_kr": "나, iPhone 샀어.",
+      "b_en": "I bought an iPhone."
+    },
+    {
+      "id": "day15:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "네 눈은 무슨 색이야?",
+      "a_en": "What color are your eyes?",
+      "b_kr": "짙은 갈색이야.",
+      "b_en": "They're dark brown."
+    },
+    {
+      "id": "day15:1.(5)",
+      "num": "1.(5)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너, 다음 달에 무슨 수업들을 들을 거야?",
+      "a_en": "What classes are you going to take next month?",
+      "b_kr": "나, Gamma반하고 단과반 들을 거야.",
+      "b_en": "I'm going to take the Gamma class and an elective class."
+    },
+    {
+      "id": "day15:1.(6)",
+      "num": "1.(6)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너, 무슨 향수 써?",
+      "a_en": "What perfume do you use?",
+      "b_kr": "나, 프라다 써.",
+      "b_en": "I use Prada."
+    },
+    {
+      "id": "day15:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 어느 맛이 좋아?",
+      "a_en": "Which flavor do you like?",
+      "b_kr": "난 딸기가 좋아.",
+      "b_en": "I like strawberry."
+    },
+    {
+      "id": "day15:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 어느 음료 마시고 싶어?",
+      "a_en": "Which drink do you want?",
+      "b_kr": "나, 오렌지주스 마시고 싶어.",
+      "b_en": "I want orange juice."
+    },
+    {
+      "id": "day15:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "어느 수업자료(복수)를 잃어버렸어?",
+      "a_en": "Which handouts did you lose?",
+      "b_kr": "나, 어제 꺼 잃어버렸어.",
+      "b_en": "I lost yesterday's."
+    },
+    {
+      "id": "day15:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 어느 숙제를 안 했어?",
+      "a_en": "Which homework didn't you do?",
+      "b_kr": "나, 작문 숙제 안 했어.",
+      "b_en": "I didn't do the written homework."
+    },
+    {
+      "id": "day15:2.(5)",
+      "num": "2.(5)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 어느 컴퓨터를 살 거야?",
+      "a_en": "Which computer are you going to buy?",
+      "b_kr": "나, 그 비싼 컴퓨터 살 거야.",
+      "b_en": "I'm going to buy the expensive computer."
+    },
+    {
+      "id": "day15:2.(6)",
+      "num": "2.(6)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 어느 노래를 부를 거야?",
+      "a_en": "Which song are you going to sing?",
+      "b_kr": "나, “Let it be.” 부를 거야.",
+      "b_en": "I'm going to sing \"Let it be\"."
+    },
+    {
+      "id": "day15:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "이거 누구 열쇠야?",
+      "a_en": "Whose keys are these?",
+      "b_kr": "내 거야.",
+      "b_en": "They're mine."
+    },
+    {
+      "id": "day15:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 누구 신용카드 써?",
+      "a_en": "Whose credit card do you use?",
+      "b_kr": "나, 우리 엄마 거 써.",
+      "b_en": "I use my mother's."
+    },
+    {
+      "id": "day15:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 누구 돈을 안 걷었어?",
+      "a_en": "Whose money didn't you collect?",
+      "b_kr": "나, Steve거 안 걷었어.",
+      "b_en": "I didn't collect Steve's."
+    },
+    {
+      "id": "day15:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 누구의 치킨을 먹고 있어?",
+      "a_en": "Whose chicken are you eating?",
+      "b_kr": "나, 네 것을 먹고 있어.",
+      "b_en": "I'm eating yours."
+    },
+    {
+      "id": "day15:3.(5)",
+      "num": "3.(5)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 누구네 집 찾아 갈 거야?",
+      "a_en": "Whose house are you going to visit?",
+      "b_kr": "나, 우리 친척 네 찾아갈 거야.",
+      "b_en": "I'm going to visit my relative's."
+    },
+    {
+      "id": "day15:3.(6)",
+      "num": "3.(6)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 누구의 차를 빌릴 거야?",
+      "a_en": "Whose car are you going to borrow?",
+      "b_kr": "나, 우리 아빠 거 빌릴 거야.",
+      "b_en": "I'm going to borrow my father's."
+    },
+    {
+      "id": "day15:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "넌 어떤 종류의 남자를 좋아해?",
+      "a_en": "What kind of guy do you like?",
+      "b_kr": "나, 착한 남자 좋아해.",
+      "b_en": "I like a nice guy."
+    },
+    {
+      "id": "day15:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "거기 어떤 종류의 음식을 팔아?",
+      "a_en": "What kind of food do they serve?",
+      "b_kr": "거기, 중국 음식을 팔아.",
+      "b_en": "They serve Chinese food."
+    },
+    {
+      "id": "day15:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "너, 어떤 종류의 영화를 볼 거야?",
+      "a_en": "What kind of movie are you going to watch?",
+      "b_kr": "나, 액션영화 볼 거야.",
+      "b_en": "I'm going to watch an action movie."
+    },
+    {
+      "id": "day15:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "너, 어떤 종류의 커피를 주문했어?",
+      "a_en": "What kind of coffee did you order?",
+      "b_kr": "나, 바닐라 라떼 주문했어.",
+      "b_en": "I ordered the vanilla latte."
+    },
+    {
+      "id": "day15:4.(5)",
+      "num": "4.(5)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "너 지난 주말에 어떤 종류의 시험을 봤어?",
+      "a_en": "What kind of test did you take last weekend?",
+      "b_kr": "나 말하기 시험 봤어.",
+      "b_en": "I took a speaking test."
+    },
+    {
+      "id": "day15:4.(6)",
+      "num": "4.(6)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "걔(여자), 어떤 종류의 신발을 신을 거야?",
+      "a_en": "What kind of shoes is she going to wear?",
+      "b_kr": "걔(여자), 하이힐을 신을 거야.",
+      "b_en": "She's going to wear high heels."
+    },
+    {
+      "id": "day15:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "이거 다음 무슨 (TV)프로야?",
+      "a_en": "What TV show is after this?",
+      "b_kr": "SNL 이.",
+      "b_en": "SNL is."
+    },
+    {
+      "id": "day15:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "어느 창문이 안 열려?",
+      "a_en": "Which window doesn't open?",
+      "b_kr": "저 창문이.",
+      "b_en": "That window doesn't."
+    },
+    {
+      "id": "day15:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누구 수업이 9시에 시작해?",
+      "a_en": "Whose class starts at 9?",
+      "b_kr": "Steve 거.",
+      "b_en": "Steve's does."
+    },
+    {
+      "id": "day15:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누구 핸드폰이 울리고 있어?",
+      "a_en": "Whose cell phone is ringing?",
+      "b_kr": "Robin 거.",
+      "b_en": "Robin's is."
+    },
+    {
+      "id": "day15:5.(5)",
+      "num": "5.(5)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "어느 답이 맞아?",
+      "a_en": "Which answer is right?",
+      "b_kr": "저 답이.",
+      "b_en": "That answer is."
+    },
+    {
+      "id": "day15:5.(6)",
+      "num": "5.(6)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "무슨 요리들이 인기가 많아?",
+      "a_en": "Which dishes are popular?",
+      "b_kr": "이 요리들이.",
+      "b_en": "These dishes are."
+    },
+    {
+      "id": "day15:5.(7)",
+      "num": "5.(7)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "요즘 극장 안에서 무슨 영화들이 상영 중이야?",
+      "a_en": "What movies are playing in the theaters these days?",
+      "b_kr": "엑스맨 하고 어벤져스가.",
+      "b_en": "X-men and the Avengers are."
+    },
+    {
+      "id": "day15:5.(8)",
+      "num": "5.(8)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "어느 방에 TV가 있어?",
+      "a_en": "Which room has a TV?",
+      "b_kr": "이 방에.",
+      "b_en": "This room does."
+    },
+    {
+      "id": "day15:5.(9)",
+      "num": "5.(9)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "어떤 종류의 노래들이 네 핸드폰에 들어 있어?",
+      "a_en": "What kind of songs are on your cell phone?",
+      "b_kr": "K-pop 노래들이.",
+      "b_en": "K-pop songs are."
+    },
+    {
+      "id": "day15:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "dialogue",
+      "a_kr": "소개팅 어땠어?",
+      "a_en": "How was your blind date?",
+      "b_kr": "아주 좋았어.",
+      "b_en": "It was great."
+    },
+    {
+      "id": "day15:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "dialogue",
+      "a_kr": "음식 어때?",
+      "a_en": "How is the food?",
+      "b_kr": "싱거워.",
+      "b_en": "It's bland."
+    },
+    {
+      "id": "day15:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "dialogue",
+      "a_kr": "네 다리는 좀 어때?",
+      "a_en": "How is your leg?",
+      "b_kr": "괜찮아.",
+      "b_en": "It's okay."
+    },
+    {
+      "id": "day15:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "dialogue",
+      "a_kr": "영화 어땠어?",
+      "a_en": "How was the movie?",
+      "b_kr": "웃겼어.",
+      "b_en": "It was funny."
+    },
+    {
+      "id": "day15:6.(5)",
+      "num": "6.(5)",
+      "group": 6,
+      "type": "dialogue",
+      "a_kr": "부모님 잘 지내셔?",
+      "a_en": "How are your parents?",
+      "b_kr": "잘 지내시지.",
+      "b_en": "They're good."
+    }
+  ]
+}

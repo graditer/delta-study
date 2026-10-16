@@ -1,0 +1,587 @@
+{
+  "day": 20,
+  "id": "day20",
+  "title": "want / would like / like Drilling!",
+  "format": "sentence",
+  "count": 72,
+  "declaredCount": 72,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day20/",
+  "items": [
+    {
+      "id": "day20:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "내 버거에 감자튀김도 같이 줘.",
+      "en": "I want fries with my burger."
+    },
+    {
+      "id": "day20:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 버거에 감자튀김도 같이 줘?",
+      "en": "Do you want fries with your burger?"
+    },
+    {
+      "id": "day20:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "내 버거에 감자튀김은 안 줘도 돼.",
+      "en": "I don't want fries with my burger."
+    },
+    {
+      "id": "day20:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 버거에 감자튀김 안 먹어?",
+      "en": "Don't you want fries with your burger?"
+    },
+    {
+      "id": "day20:1.(5)",
+      "num": "1.(5)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "버거랑 같이 무슨 음료 마실래?",
+      "en": "What drink do you want with your burger?"
+    },
+    {
+      "id": "day20:1.(6)",
+      "num": "1.(6)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "어느 버거로 먹을래?",
+      "en": "Which burger do you want?"
+    },
+    {
+      "id": "day20:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자)는 자기 생일선물로 자전거를 받고 싶대.",
+      "en": "He wants a bike for his birthday."
+    },
+    {
+      "id": "day20:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자) 생일선물로 자전거 받고 싶대?",
+      "en": "Does he want a bike for his birthday?"
+    },
+    {
+      "id": "day20:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자)는 생일선물로 자전거를 받고 싶어 하지 않아.",
+      "en": "He doesn't want a bike for his birthday."
+    },
+    {
+      "id": "day20:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자) 생일선물로 자전거 받고 싶어 하지 않아?",
+      "en": "Doesn't he want a bike for his birthday?"
+    },
+    {
+      "id": "day20:2.(5)",
+      "num": "2.(5)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자)는 생일선물로 무엇을 받고 싶어 해?",
+      "en": "What does he want for his birthday?"
+    },
+    {
+      "id": "day20:2.(6)",
+      "num": "2.(6)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자)는 왜 자전거를 갖고 싶어 해?",
+      "en": "Why does he want a bike?"
+    },
+    {
+      "id": "day20:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "난 술 게임 하고 싶어.",
+      "en": "I want to play a drinking game."
+    },
+    {
+      "id": "day20:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 술 게임 하고 싶어?",
+      "en": "Do you want to play a drinking game?"
+    },
+    {
+      "id": "day20:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "난 술 게임 하고 싶지 않아.",
+      "en": "I don't want to play a drinking game."
+    },
+    {
+      "id": "day20:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 술 게임 하고 싶지 않아?",
+      "en": "Don't you want to play a drinking game?"
+    },
+    {
+      "id": "day20:3.(5)",
+      "num": "3.(5)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "어떤 종류의 게임을 하고 싶어?",
+      "en": "What kind of game do you want to play?"
+    },
+    {
+      "id": "day20:3.(6)",
+      "num": "3.(6)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "이 게임은 어떻게 해?",
+      "en": "How do you play this game?"
+    },
+    {
+      "id": "day20:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "그 사람들은 한국 곳곳을 여행하고 싶어 해.",
+      "en": "They want to travel around Korea."
+    },
+    {
+      "id": "day20:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "그 사람들은 한국 곳곳을 여행하고 싶어 해?",
+      "en": "Do they want to travel around Korea?"
+    },
+    {
+      "id": "day20:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "그 사람들은 한국 곳곳을 여행하고 싶어 하지 않아.",
+      "en": "They don't want to travel around Korea."
+    },
+    {
+      "id": "day20:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "그 사람들은 한국 곳곳을 여행하고 싶어 하지 않아?",
+      "en": "Don't they want to travel around Korea?"
+    },
+    {
+      "id": "day20:4.(5)",
+      "num": "4.(5)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너는 언제 한국 곳곳을 여행하고 싶어?",
+      "en": "When do you want to travel around Korea?"
+    },
+    {
+      "id": "day20:4.(6)",
+      "num": "4.(6)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "그 사람들은 어디를 여행하고 싶어 해?",
+      "en": "Where do they want to travel?"
+    },
+    {
+      "id": "day20:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "그 사람들은 점심으로 한식을 먹고 싶어 합니다.",
+      "en": "They would like Korean food for lunch."
+    },
+    {
+      "id": "day20:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "그 사람들은 점심으로 한식을 먹고 싶어 합니까?",
+      "en": "Would they like Korean food for lunch?"
+    },
+    {
+      "id": "day20:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "그 사람들은 점심으로 한식을 먹고 싶어 하지 않습니다.",
+      "en": "They wouldn't like Korean food for lunch."
+    },
+    {
+      "id": "day20:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "그 사람들은 점심으로 한식을 먹고 싶어 하지 않나요?",
+      "en": "Wouldn't they like Korean food for lunch?"
+    },
+    {
+      "id": "day20:5.(5)",
+      "num": "5.(5)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "점심으로 무엇을 드시겠어요?",
+      "en": "What would you like for lunch?"
+    },
+    {
+      "id": "day20:5.(6)",
+      "num": "5.(6)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "점심으로 어떤 종류의 음식을 드시겠어요?",
+      "en": "What kind of food would you like for lunch?"
+    },
+    {
+      "id": "day20:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "저 환불받고 싶어요.",
+      "en": "I would like a refund."
+    },
+    {
+      "id": "day20:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "환불을 원하시나요?",
+      "en": "Would you like a refund?"
+    },
+    {
+      "id": "day20:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "환불은 원하지 않아요.",
+      "en": "I wouldn't like a refund."
+    },
+    {
+      "id": "day20:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "환불을 원하지 않으시나요?",
+      "en": "Wouldn't you like a refund?"
+    },
+    {
+      "id": "day20:6.(5)",
+      "num": "6.(5)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "왜 환불을 원하시나요?",
+      "en": "Why would you like a refund?"
+    },
+    {
+      "id": "day20:6.(6)",
+      "num": "6.(6)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "누가 환불을 원하시나요?",
+      "en": "Who would like a refund?"
+    },
+    {
+      "id": "day20:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "함께 저녁 식사하고 싶습니다.",
+      "en": "I would like to have dinner with you."
+    },
+    {
+      "id": "day20:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "저와 함께 저녁 식사하시겠어요?",
+      "en": "Would you like to have dinner with me?"
+    },
+    {
+      "id": "day20:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "당신과 저녁 식사하고 싶지 않습니다.",
+      "en": "I wouldn't like to have dinner with you."
+    },
+    {
+      "id": "day20:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "저와 저녁 식사하고 싶지 않으신가요?",
+      "en": "Wouldn't you like to have dinner with me?"
+    },
+    {
+      "id": "day20:7.(5)",
+      "num": "7.(5)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "언제 저와 저녁 식사하시겠어요?",
+      "en": "When would you like to have dinner with me?"
+    },
+    {
+      "id": "day20:7.(6)",
+      "num": "7.(6)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "왜 저와 저녁 식사하고 싶지 않으신가요?",
+      "en": "Why wouldn't you like to have dinner with me?"
+    },
+    {
+      "id": "day20:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "저, 한 입 먹고 싶어요.",
+      "en": "I would like to have a bite."
+    },
+    {
+      "id": "day20:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "한 입 드셔보시겠어요?",
+      "en": "Would you like to have a bite?"
+    },
+    {
+      "id": "day20:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "한 입 먹고 싶지 않아요.",
+      "en": "I wouldn't like to have a bite."
+    },
+    {
+      "id": "day20:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "한 입 드셔보고 싶지 않으세요?",
+      "en": "Wouldn't you like to have a bite?"
+    },
+    {
+      "id": "day20:8.(5)",
+      "num": "8.(5)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "누가 한 입 드시겠어요?",
+      "en": "Who would like to have a bite?"
+    },
+    {
+      "id": "day20:8.(6)",
+      "num": "8.(6)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "무엇을 드시겠어요?",
+      "en": "What would you like to have?"
+    },
+    {
+      "id": "day20:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나는 토요일에 데이트하는 게 좋아.",
+      "en": "I like to go on a date on Saturday."
+    },
+    {
+      "id": "day20:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너 토요일에 데이트하는 거 좋아해?",
+      "en": "Do you like to go on a date on Saturday?"
+    },
+    {
+      "id": "day20:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나는 토요일에 데이트하는 거 안 좋아해.",
+      "en": "I don't like to go on a date on Saturday."
+    },
+    {
+      "id": "day20:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너 토요일에 데이트하는 거 안 좋아해?",
+      "en": "Don't you like to go on a date on Saturday?"
+    },
+    {
+      "id": "day20:9.(5)",
+      "num": "9.(5)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너는 데이트를 얼마나 자주 하는 편이야?",
+      "en": "How often do you like to go on dates?"
+    },
+    {
+      "id": "day20:9.(6)",
+      "num": "9.(6)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너는 어디로 데이트하러 가는 걸 좋아해?",
+      "en": "Where do you like to go on dates?"
+    },
+    {
+      "id": "day20:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "내 남자친구는 불평하기를 좋아해.",
+      "en": "My boyfriend likes to complain."
+    },
+    {
+      "id": "day20:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "네 남자친구 불평하는 거 좋아해?",
+      "en": "Does your boyfriend like to complain?"
+    },
+    {
+      "id": "day20:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "내 남자친구는 불평하는 걸 안 좋아해.",
+      "en": "My boyfriend doesn't like to complain."
+    },
+    {
+      "id": "day20:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "네 남자친구 불평하는 거 안 좋아해?",
+      "en": "Doesn't your boyfriend like to complain?"
+    },
+    {
+      "id": "day20:10.(5)",
+      "num": "10.(5)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "네 남자친구는 언제 불평하는 편이야?",
+      "en": "When does your boyfriend like to complain?"
+    },
+    {
+      "id": "day20:10.(6)",
+      "num": "10.(6)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "누가 불평하기를 좋아해?",
+      "en": "Who likes to complain?"
+    },
+    {
+      "id": "day20:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "난 새로운 사람들 만나는 걸 좋아해.",
+      "en": "I like meeting new people."
+    },
+    {
+      "id": "day20:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너 새로운 사람들 만나는 거 좋아해?",
+      "en": "Do you like meeting new people?"
+    },
+    {
+      "id": "day20:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "난 새로운 사람들 만나는 거 안 좋아해.",
+      "en": "I don't like meeting new people."
+    },
+    {
+      "id": "day20:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너 새로운 사람들 만나는 거 안 좋아해?",
+      "en": "Don't you like meeting new people?"
+    },
+    {
+      "id": "day20:11.(5)",
+      "num": "11.(5)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너는 무엇을 하는 걸 싫어해?",
+      "en": "What don't you like doing?"
+    },
+    {
+      "id": "day20:11.(6)",
+      "num": "11.(6)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너는 어떤 유형의 사람들을 만나는 걸 안 좋아해?",
+      "en": "What kind of people don't you like meeting?"
+    },
+    {
+      "id": "day20:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "사람들은 셀카 찍는 걸 좋아해.",
+      "en": "People like taking selfies."
+    },
+    {
+      "id": "day20:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "사람들은 셀카 찍는 걸 좋아해?",
+      "en": "Do people like taking selfies?"
+    },
+    {
+      "id": "day20:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "사람들은 셀카 찍는 걸 안 좋아해.",
+      "en": "People don't like taking selfies."
+    },
+    {
+      "id": "day20:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "사람들은 셀카 찍는 걸 안 좋아해?",
+      "en": "Don't people like taking selfies?"
+    },
+    {
+      "id": "day20:12.(5)",
+      "num": "12.(5)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "사람들은 왜 셀카 찍는 걸 좋아할까?",
+      "en": "Why do people like taking selfies?"
+    },
+    {
+      "id": "day20:12.(6)",
+      "num": "12.(6)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "사람들은 언제 셀카 찍는 걸 좋아해?",
+      "en": "When do people like taking selfies?"
+    }
+  ]
+}

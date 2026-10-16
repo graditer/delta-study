@@ -1,0 +1,587 @@
+{
+  "day": 17,
+  "id": "day17",
+  "title": "조동사 can Drilling!",
+  "format": "sentence",
+  "count": 72,
+  "declaredCount": 72,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day17/",
+  "items": [
+    {
+      "id": "day17:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나 오늘 밤에 그 파티에 갈 수 있어.",
+      "en": "I can go to the party tonight."
+    },
+    {
+      "id": "day17:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 오늘 밤에 그 파티에 갈 수 있어?",
+      "en": "Can you go to the party tonight?"
+    },
+    {
+      "id": "day17:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나 오늘 밤에 그 파티에 못 가.",
+      "en": "I can't go to the party tonight."
+    },
+    {
+      "id": "day17:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 오늘 밤에 그 파티에 못 가?",
+      "en": "Can't you go to the party tonight?"
+    },
+    {
+      "id": "day17:1.(5)",
+      "num": "1.(5)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 어젯밤에 왜 그 파티에 못 갔어?",
+      "en": "Why couldn't you go to the party last night?"
+    },
+    {
+      "id": "day17:1.(6)",
+      "num": "1.(6)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "오늘 밤에 그 파티에 누가 올 수 있어?",
+      "en": "Who can come to the party tonight?"
+    },
+    {
+      "id": "day17:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너, 우리 집에서 자고 가도 돼.",
+      "en": "You can stay at my place."
+    },
+    {
+      "id": "day17:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나 너희 집에서 자고 가도 돼?",
+      "en": "Can I stay at your place?"
+    },
+    {
+      "id": "day17:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 우리 집에서 자고 가면 안 돼.",
+      "en": "You can't stay at my place."
+    },
+    {
+      "id": "day17:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나 너희 집에서 자고 가면 안 돼?",
+      "en": "Can't I stay at your place?"
+    },
+    {
+      "id": "day17:2.(5)",
+      "num": "2.(5)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "내가 왜 너희 집에서 자고 가면 안 돼?",
+      "en": "Why can't I stay at your place?"
+    },
+    {
+      "id": "day17:2.(6)",
+      "num": "2.(6)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나 너희 집에서 얼마나 오래 머물 수 있어?",
+      "en": "How long can I stay at your place?"
+    },
+    {
+      "id": "day17:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "난 그 문법을 이해할 수 있어.",
+      "en": "I can understand the grammar."
+    },
+    {
+      "id": "day17:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 그 문법 이해할 수 있어?",
+      "en": "Can you understand the grammar?"
+    },
+    {
+      "id": "day17:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "난 그 문법 이해 못 하겠어.",
+      "en": "I can't understand the grammar."
+    },
+    {
+      "id": "day17:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 그 문법 이해 못 하겠어?",
+      "en": "Can't you understand the grammar?"
+    },
+    {
+      "id": "day17:3.(5)",
+      "num": "3.(5)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "넌 뭘 이해할 수 없었어?",
+      "en": "What couldn't you understand?"
+    },
+    {
+      "id": "day17:3.(6)",
+      "num": "3.(6)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "누가 그 문법을 이해 못 해?",
+      "en": "Who can't understand the grammar?"
+    },
+    {
+      "id": "day17:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "먼저 가셔도 돼요.",
+      "en": "You can go first."
+    },
+    {
+      "id": "day17:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "제가 먼저 가도 돼요?",
+      "en": "Can I go first?"
+    },
+    {
+      "id": "day17:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "먼저 가시면 안 돼요.",
+      "en": "You can't go first."
+    },
+    {
+      "id": "day17:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "제가 먼저 가면 안 돼요?",
+      "en": "Can't I go first?"
+    },
+    {
+      "id": "day17:4.(5)",
+      "num": "4.(5)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "누가 먼저 가도 돼요?",
+      "en": "Who can go first?"
+    },
+    {
+      "id": "day17:4.(6)",
+      "num": "4.(6)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "걔네들은 왜 먼저 가면 안 돼?",
+      "en": "Why can't they go first?"
+    },
+    {
+      "id": "day17:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Steve는 춤추면서 노래할 수 있어.",
+      "en": "Steve can dance and sing."
+    },
+    {
+      "id": "day17:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Steve 춤추면서 노래할 수 있어?",
+      "en": "Can Steve dance and sing?"
+    },
+    {
+      "id": "day17:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Steve는 춤추면서 노래 못 해.",
+      "en": "Steve can't dance and sing."
+    },
+    {
+      "id": "day17:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Steve 춤추면서 노래 못 해?",
+      "en": "Can't Steve dance and sing?"
+    },
+    {
+      "id": "day17:5.(5)",
+      "num": "5.(5)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Steve는 무엇을 할 수 있어?",
+      "en": "What can Steve do?"
+    },
+    {
+      "id": "day17:5.(6)",
+      "num": "5.(6)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "누가 춤추면서 노래를 못 해?",
+      "en": "Who can't dance and sing?"
+    },
+    {
+      "id": "day17:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "내 친구는 해산물을 먹을 수 있어.",
+      "en": "My friend can eat seafood."
+    },
+    {
+      "id": "day17:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "네 친구 해산물 먹을 수 있어?",
+      "en": "Can your friend eat seafood?"
+    },
+    {
+      "id": "day17:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "내 친구는 해산물을 못 먹어.",
+      "en": "My friend can't eat seafood."
+    },
+    {
+      "id": "day17:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "네 친구 해산물 못 먹어?",
+      "en": "Can't your friend eat seafood?"
+    },
+    {
+      "id": "day17:6.(5)",
+      "num": "6.(5)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너는 무엇을 못 먹어?",
+      "en": "What can't you eat?"
+    },
+    {
+      "id": "day17:6.(6)",
+      "num": "6.(6)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너는 왜 해산물을 못 먹어?",
+      "en": "Why can't you eat seafood?"
+    },
+    {
+      "id": "day17:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "우린 너 병문안 갈 수 있어.",
+      "en": "We can visit you in the hospital."
+    },
+    {
+      "id": "day17:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너희 나 병문안 올 수 있어?",
+      "en": "Can you visit me in the hospital?"
+    },
+    {
+      "id": "day17:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "우린 너 병문안 못 가.",
+      "en": "We can't visit you in the hospital."
+    },
+    {
+      "id": "day17:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너희 나 병문안 못 와?",
+      "en": "Can't you visit me in the hospital?"
+    },
+    {
+      "id": "day17:7.(5)",
+      "num": "7.(5)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너희 언제 나 병문안 올 수 있어?",
+      "en": "When can you visit me in the hospital?"
+    },
+    {
+      "id": "day17:7.(6)",
+      "num": "7.(6)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너희 몇 시에 나 병문안 올 수 있어?",
+      "en": "What time can you visit me in the hospital?"
+    },
+    {
+      "id": "day17:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "제 옆에 앉으셔도 돼요.",
+      "en": "You can sit next to me."
+    },
+    {
+      "id": "day17:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "제가 당신 옆에 앉아도 될까요?",
+      "en": "Can I sit next to you?"
+    },
+    {
+      "id": "day17:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "제 옆에 앉으시면 안 돼요.",
+      "en": "You can't sit next to me."
+    },
+    {
+      "id": "day17:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "제가 당신 옆에 앉으면 안 되나요?",
+      "en": "Can't I sit next to you?"
+    },
+    {
+      "id": "day17:8.(5)",
+      "num": "8.(5)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "제가 어디에 앉을 수 있나요?",
+      "en": "Where can I sit?"
+    },
+    {
+      "id": "day17:8.(6)",
+      "num": "8.(6)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "내가 어떻게 걔(여자) 옆에 앉을 수 있겠어?",
+      "en": "How can I sit next to her?"
+    },
+    {
+      "id": "day17:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "선생님들은 2개 국어를 할 수 있어.",
+      "en": "The teachers can speak 2 languages."
+    },
+    {
+      "id": "day17:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "선생님들은 2개 국어를 할 수 있어?",
+      "en": "Can the teachers speak 2 languages?"
+    },
+    {
+      "id": "day17:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "선생님들은 2개 국어를 못 하셔.",
+      "en": "The teachers can't speak 2 languages."
+    },
+    {
+      "id": "day17:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "선생님들은 2개 국어를 못 하셔?",
+      "en": "Can't the teachers speak 2 languages?"
+    },
+    {
+      "id": "day17:9.(5)",
+      "num": "9.(5)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "선생님들은 무슨 언어들을 하실 수 있어?",
+      "en": "What languages can the teachers speak?"
+    },
+    {
+      "id": "day17:9.(6)",
+      "num": "9.(6)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "선생님들은 몇 개 국어를 하실 수 있어?",
+      "en": "How many languages can the teachers speak?"
+    },
+    {
+      "id": "day17:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(여자)는 다음 학기에 졸업할 수 있어.",
+      "en": "She can graduate next semester."
+    },
+    {
+      "id": "day17:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(여자) 다음 학기에 졸업할 수 있어?",
+      "en": "Can she graduate next semester?"
+    },
+    {
+      "id": "day17:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(여자)는 다음 학기에 졸업 못 해.",
+      "en": "She can't graduate next semester."
+    },
+    {
+      "id": "day17:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(여자) 다음 학기에 졸업 못 해?",
+      "en": "Can't she graduate next semester?"
+    },
+    {
+      "id": "day17:10.(5)",
+      "num": "10.(5)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "누가 이번 학기에 졸업을 못 해?",
+      "en": "Who can't graduate this semester?"
+    },
+    {
+      "id": "day17:10.(6)",
+      "num": "10.(6)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(여자)는 왜 지난 학기에 졸업을 못 했어?",
+      "en": "Why couldn't she graduate last semester?"
+    },
+    {
+      "id": "day17:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔들은 소주를 마실 수 있어.",
+      "en": "They can drink soju."
+    },
+    {
+      "id": "day17:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔네 소주 마실 수 있어?",
+      "en": "Can they drink soju?"
+    },
+    {
+      "id": "day17:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔들은 소주 못 마셔.",
+      "en": "They can't drink soju."
+    },
+    {
+      "id": "day17:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔네 소주 못 마셔?",
+      "en": "Can't they drink soju?"
+    },
+    {
+      "id": "day17:11.(5)",
+      "num": "11.(5)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔네는 무슨 술을 못 마셔?",
+      "en": "What alcohol can't they drink?"
+    },
+    {
+      "id": "day17:11.(6)",
+      "num": "11.(6)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "누가 소주를 못 마셔?",
+      "en": "Who can't drink soju?"
+    },
+    {
+      "id": "day17:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우린 걔들을 이길 수 있어.",
+      "en": "We can beat them."
+    },
+    {
+      "id": "day17:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우리가 걔네를 이길 수 있을까?",
+      "en": "Can we beat them?"
+    },
+    {
+      "id": "day17:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우린 걔들을 이길 수 없어.",
+      "en": "We can't beat them."
+    },
+    {
+      "id": "day17:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우리가 걔네를 못 이길까?",
+      "en": "Can't we beat them?"
+    },
+    {
+      "id": "day17:12.(5)",
+      "num": "12.(5)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우리가 어떻게 걔네를 이길 수 있을까?",
+      "en": "How can we beat them?"
+    },
+    {
+      "id": "day17:12.(6)",
+      "num": "12.(6)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔네들은 누구를 이길 수 있어?",
+      "en": "Who can they beat?"
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "day": 3,
+  "id": "day03",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 80,
+  "declaredCount": 80,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day03/",
+  "items": [
+    {
+      "id": "day03:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "이거 내 텀블러야.",
+      "en": "This is my tumbler."
+    },
+    {
+      "id": "day03:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "이거 내 텀블러야?",
+      "en": "Is this my tumbler?"
+    },
+    {
+      "id": "day03:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "이거 내 텀블러 아니야.",
+      "en": "This isn't my tumbler."
+    },
+    {
+      "id": "day03:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "이거 내 텀블러 아니야?",
+      "en": "Isn't this my tumbler?"
+    },
+    {
+      "id": "day03:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "이 사람은 내 여동생이야.",
+      "en": "This is my sister."
+    },
+    {
+      "id": "day03:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "이 사람 네 여동생이야?",
+      "en": "Is this your sister?"
+    },
+    {
+      "id": "day03:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "이 사람 내 여동생 아니야.",
+      "en": "This isn't my sister."
+    },
+    {
+      "id": "day03:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "이 사람 네 여동생 아니야?",
+      "en": "Isn't this your sister?"
+    },
+    {
+      "id": "day03:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "얘는 내 반 친구야.",
+      "en": "This is my classmate."
+    },
+    {
+      "id": "day03:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "얘 네 반 친구야?",
+      "en": "Is this your classmate?"
+    },
+    {
+      "id": "day03:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "얘 내 반 친구 아니야.",
+      "en": "This isn't my classmate."
+    },
+    {
+      "id": "day03:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "얘 네 반 친구 아니야?",
+      "en": "Isn't this your classmate?"
+    },
+    {
+      "id": "day03:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "저거 네 충전기야.",
+      "en": "That is your charger."
+    },
+    {
+      "id": "day03:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "저거 내 충전기야?",
+      "en": "Is that my charger?"
+    },
+    {
+      "id": "day03:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "저거 네 충전기 아니야.",
+      "en": "That isn't your charger."
+    },
+    {
+      "id": "day03:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "저거 내 충전기 아니야?",
+      "en": "Isn't that my charger?"
+    },
+    {
+      "id": "day03:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "저거 걔(남자) USB야.",
+      "en": "That is his flash drive."
+    },
+    {
+      "id": "day03:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "저거 걔(남자) USB야?",
+      "en": "Is that his flash drive?"
+    },
+    {
+      "id": "day03:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "저거 걔(남자) USB 아니야.",
+      "en": "That isn't his flash drive."
+    },
+    {
+      "id": "day03:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "저거 걔(남자) USB 아니야?",
+      "en": "Isn't that his flash drive?"
+    },
+    {
+      "id": "day03:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "이거 Robin 화장품이야.",
+      "en": "This is Robin's makeup."
+    },
+    {
+      "id": "day03:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "이거 Robin 화장품이야?",
+      "en": "Is this Robin's makeup?"
+    },
+    {
+      "id": "day03:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "이거 Robin 화장품 아니야.",
+      "en": "This isn't Robin's makeup."
+    },
+    {
+      "id": "day03:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "이거 Robin 화장품 아니야?",
+      "en": "Isn't this Robin's makeup?"
+    },
+    {
+      "id": "day03:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "이건 우리 점심이야.",
+      "en": "This is our lunch."
+    },
+    {
+      "id": "day03:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "이거 우리 점심이야?",
+      "en": "Is this our lunch?"
+    },
+    {
+      "id": "day03:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "이건 우리 점심 아니야.",
+      "en": "This isn't our lunch."
+    },
+    {
+      "id": "day03:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "이거 우리 점심 아니야?",
+      "en": "Isn't this our lunch?"
+    },
+    {
+      "id": "day03:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "이건 걔들 필기야.",
+      "en": "These are their notes."
+    },
+    {
+      "id": "day03:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "이거 걔들 필기야?",
+      "en": "Are these their notes?"
+    },
+    {
+      "id": "day03:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "이건 걔들 필기 아니야.",
+      "en": "These aren't their notes."
+    },
+    {
+      "id": "day03:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "이거 걔들 필기 아니야?",
+      "en": "Aren't these their notes?"
+    },
+    {
+      "id": "day03:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "저건 걔들 선물이야.",
+      "en": "Those are their presents."
+    },
+    {
+      "id": "day03:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "저거 걔들 선물이야?",
+      "en": "Are those their presents?"
+    },
+    {
+      "id": "day03:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "저건 걔들 선물 아니야.",
+      "en": "Those aren't their presents."
+    },
+    {
+      "id": "day03:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "저거 걔들 선물 아니야?",
+      "en": "Aren't those their presents?"
+    },
+    {
+      "id": "day03:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "이쪽은 내 선배야.",
+      "en": "This is my upperclassman."
+    },
+    {
+      "id": "day03:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "이쪽은 네 선배야?",
+      "en": "Is this your upperclassman?"
+    },
+    {
+      "id": "day03:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "이쪽은 내 선배 아니야.",
+      "en": "This isn't my upperclassman."
+    },
+    {
+      "id": "day03:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "이쪽은 네 선배 아니야?",
+      "en": "Isn't this your upperclassman?"
+    },
+    {
+      "id": "day03:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 휴대전화는 걔(남자) 거야.",
+      "en": "This cell phone is his."
+    },
+    {
+      "id": "day03:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 휴대전화 걔(남자) 거야?",
+      "en": "Is this cell phone his?"
+    },
+    {
+      "id": "day03:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 휴대전화는 걔(남자) 거 아니야.",
+      "en": "This cell phone isn't his."
+    },
+    {
+      "id": "day03:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "이 휴대전화 걔(남자) 거 아니야?",
+      "en": "Isn't this cell phone his?"
+    },
+    {
+      "id": "day03:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "저 물건은 Chris 거야.",
+      "en": "That stuff is Chris's."
+    },
+    {
+      "id": "day03:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "저 물건 Chris 거야?",
+      "en": "Is that stuff Chris's?"
+    },
+    {
+      "id": "day03:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "저 물건은 Chris 거 아니야.",
+      "en": "That stuff isn't Chris's."
+    },
+    {
+      "id": "day03:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "저 물건 Chris 거 아니야?",
+      "en": "Isn't that stuff Chris's?"
+    },
+    {
+      "id": "day03:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "저 쓰레기는 네 거야.",
+      "en": "That trash is yours."
+    },
+    {
+      "id": "day03:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "저 쓰레기 내 거야?",
+      "en": "Is that trash yours?"
+    },
+    {
+      "id": "day03:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "저 쓰레기는 네 거 아니야.",
+      "en": "That trash isn't yours."
+    },
+    {
+      "id": "day03:13.(4)",
+      "num": "13.(4)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "저 쓰레기 내 거 아니야?",
+      "en": "Isn't that trash yours?"
+    },
+    {
+      "id": "day03:14.(1)",
+      "num": "14.(1)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "이 SUV들은 그 사람들 거야.",
+      "en": "These SUVs are theirs."
+    },
+    {
+      "id": "day03:14.(2)",
+      "num": "14.(2)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "이 SUV들 그 사람들 거야?",
+      "en": "Are these SUVs theirs?"
+    },
+    {
+      "id": "day03:14.(3)",
+      "num": "14.(3)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "이 SUV들은 그 사람들 거 아니야.",
+      "en": "These SUVs aren't theirs."
+    },
+    {
+      "id": "day03:14.(4)",
+      "num": "14.(4)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "이 SUV들 그 사람들 거 아니야?",
+      "en": "Aren't these SUVs theirs?"
+    },
+    {
+      "id": "day03:15.(1)",
+      "num": "15.(1)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "이 잔돈은 내 거야.",
+      "en": "This change is mine."
+    },
+    {
+      "id": "day03:15.(2)",
+      "num": "15.(2)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "이 잔돈 내 거야?",
+      "en": "Is this change mine?"
+    },
+    {
+      "id": "day03:15.(3)",
+      "num": "15.(3)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "이 잔돈은 내 거 아니야.",
+      "en": "This change isn't mine."
+    },
+    {
+      "id": "day03:15.(4)",
+      "num": "15.(4)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "이 잔돈 내 거 아니야?",
+      "en": "Isn't this change mine?"
+    },
+    {
+      "id": "day03:16.(1)",
+      "num": "16.(1)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "저 워커는 Steve 거야.",
+      "en": "Those boots are Steve's."
+    },
+    {
+      "id": "day03:16.(2)",
+      "num": "16.(2)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "저 워커 Steve 거야?",
+      "en": "Are those boots Steve's?"
+    },
+    {
+      "id": "day03:16.(3)",
+      "num": "16.(3)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "저 워커는 Steve 거 아니야.",
+      "en": "Those boots aren't Steve's."
+    },
+    {
+      "id": "day03:16.(4)",
+      "num": "16.(4)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "저 워커 Steve 거 아니야?",
+      "en": "Aren't those boots Steve's?"
+    },
+    {
+      "id": "day03:17.(1)",
+      "num": "17.(1)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이 자전거는 William 거야.",
+      "en": "This bike is William's."
+    },
+    {
+      "id": "day03:17.(2)",
+      "num": "17.(2)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이 자전거 William 거야?",
+      "en": "Is this bike William's?"
+    },
+    {
+      "id": "day03:17.(3)",
+      "num": "17.(3)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이 자전거는 William 거 아니야.",
+      "en": "This bike isn't William's."
+    },
+    {
+      "id": "day03:17.(4)",
+      "num": "17.(4)",
+      "group": 17,
+      "type": "sentence",
+      "kr": "이 자전거 William 거 아니야?",
+      "en": "Isn't this bike William's?"
+    },
+    {
+      "id": "day03:18.(1)",
+      "num": "18.(1)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "저 니트들은 우리 거야.",
+      "en": "Those sweaters are ours."
+    },
+    {
+      "id": "day03:18.(2)",
+      "num": "18.(2)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "저 니트들 우리 거야?",
+      "en": "Are those sweaters ours?"
+    },
+    {
+      "id": "day03:18.(3)",
+      "num": "18.(3)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "저 니트들은 우리 거 아니야.",
+      "en": "Those sweaters aren't ours."
+    },
+    {
+      "id": "day03:18.(4)",
+      "num": "18.(4)",
+      "group": 18,
+      "type": "sentence",
+      "kr": "저 니트들 우리 거 아니야?",
+      "en": "Aren't those sweaters ours?"
+    },
+    {
+      "id": "day03:19.(1)",
+      "num": "19.(1)",
+      "group": 19,
+      "type": "sentence",
+      "kr": "이 유인물들은 우리 선생님들 거야.",
+      "en": "These handouts are our teachers'."
+    },
+    {
+      "id": "day03:19.(2)",
+      "num": "19.(2)",
+      "group": 19,
+      "type": "sentence",
+      "kr": "이 유인물들 우리 선생님들 거야?",
+      "en": "Are these handouts our teachers'?"
+    },
+    {
+      "id": "day03:19.(3)",
+      "num": "19.(3)",
+      "group": 19,
+      "type": "sentence",
+      "kr": "이 유인물들은 우리 선생님들 거 아니야.",
+      "en": "These handouts aren't our teachers'."
+    },
+    {
+      "id": "day03:19.(4)",
+      "num": "19.(4)",
+      "group": 19,
+      "type": "sentence",
+      "kr": "이 유인물들 우리 선생님들 거 아니야?",
+      "en": "Aren't these handouts our teachers'?"
+    },
+    {
+      "id": "day03:20.(1)",
+      "num": "20.(1)",
+      "group": 20,
+      "type": "sentence",
+      "kr": "저 후드 티는 걔(여자) 거야.",
+      "en": "That hoodie is hers."
+    },
+    {
+      "id": "day03:20.(2)",
+      "num": "20.(2)",
+      "group": 20,
+      "type": "sentence",
+      "kr": "저 후드 티 걔(여자) 거야?",
+      "en": "Is that hoodie hers?"
+    },
+    {
+      "id": "day03:20.(3)",
+      "num": "20.(3)",
+      "group": 20,
+      "type": "sentence",
+      "kr": "저 후드 티는 걔(여자) 거 아니야.",
+      "en": "That hoodie isn't hers."
+    },
+    {
+      "id": "day03:20.(4)",
+      "num": "20.(4)",
+      "group": 20,
+      "type": "sentence",
+      "kr": "저 후드 티 걔(여자) 거 아니야?",
+      "en": "Isn't that hoodie hers?"
+    }
+  ]
+}

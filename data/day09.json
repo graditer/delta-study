@@ -1,0 +1,459 @@
+{
+  "day": 9,
+  "id": "day09",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 56,
+  "declaredCount": 56,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day09/",
+  "items": [
+    {
+      "id": "day09:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나 일찍 퇴근해.",
+      "en": "I get off work early."
+    },
+    {
+      "id": "day09:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 일찍 퇴근해?",
+      "en": "Do you get off work early?"
+    },
+    {
+      "id": "day09:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나 일찍 퇴근 안 해.",
+      "en": "I don't get off work early."
+    },
+    {
+      "id": "day09:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 일찍 퇴근 안 해?",
+      "en": "Don't you get off work early?"
+    },
+    {
+      "id": "day09:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자)는 또박또박 말해.",
+      "en": "He speaks clearly."
+    },
+    {
+      "id": "day09:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자) 또박또박 말해?",
+      "en": "Does he speak clearly?"
+    },
+    {
+      "id": "day09:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자)는 또박또박 말하지 않아.",
+      "en": "He doesn't speak clearly."
+    },
+    {
+      "id": "day09:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "걔(남자) 또박또박 말하지 않아?",
+      "en": "Doesn't he speak clearly?"
+    },
+    {
+      "id": "day09:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "그 문은 자동으로 열려.",
+      "en": "The door opens automatically."
+    },
+    {
+      "id": "day09:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "그 문 자동으로 열려?",
+      "en": "Does the door open automatically?"
+    },
+    {
+      "id": "day09:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "그 문은 자동으로 열리지 않아.",
+      "en": "The door doesn't open automatically."
+    },
+    {
+      "id": "day09:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "그 문 자동으로 열리지 않아?",
+      "en": "Doesn't the door open automatically?"
+    },
+    {
+      "id": "day09:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "한국 버스 기사들은 위험하게 운전해.",
+      "en": "Korean bus drivers drive dangerously."
+    },
+    {
+      "id": "day09:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "한국 버스 기사들은 위험하게 운전해?",
+      "en": "Do Korean bus drivers drive dangerously?"
+    },
+    {
+      "id": "day09:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "한국 버스 기사들은 위험하게 운전하지 않아.",
+      "en": "Korean bus drivers don't drive dangerously."
+    },
+    {
+      "id": "day09:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "한국 버스 기사들은 위험하게 운전하지 않아?",
+      "en": "Don't Korean bus drivers drive dangerously?"
+    },
+    {
+      "id": "day09:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Chris는 자기 전화를 가끔 받아.",
+      "en": "Chris sometimes answers his phone."
+    },
+    {
+      "id": "day09:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Chris는 자기 전화를 가끔 받아?",
+      "en": "Does Chris sometimes answer his phone?"
+    },
+    {
+      "id": "day09:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Chris가 자기 전화를 받을 때도 있어?",
+      "en": "Does Chris ever answer his phone?"
+    },
+    {
+      "id": "day09:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "나는 항상 저녁에 우리 강아지한테 밥 줘.",
+      "en": "I always feed my dog in the evening."
+    },
+    {
+      "id": "day09:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너 항상 저녁에 강아지한테 밥 줘?",
+      "en": "Do you always feed your dog in the evening?"
+    },
+    {
+      "id": "day09:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너, 네 강아지에게 밥 줄 때도 있어?",
+      "en": "Do you ever feed your dog?"
+    },
+    {
+      "id": "day09:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "난 주로 아침에 샤워 해.",
+      "en": "I usually take a shower in the morning."
+    },
+    {
+      "id": "day09:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너 주로 아침에 샤워 해?",
+      "en": "Do you usually take a shower in the morning?"
+    },
+    {
+      "id": "day09:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너 샤워할 때도 있어?",
+      "en": "Do you ever take a shower?"
+    },
+    {
+      "id": "day09:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔(여자)는 자주 자기 숙제를 깜박해.",
+      "en": "She often forgets her homework."
+    },
+    {
+      "id": "day09:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔(여자) 자주 자기 숙제를 깜박해?",
+      "en": "Does she often forget her homework?"
+    },
+    {
+      "id": "day09:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔(여자)가 자기 숙제를 깜박할 때도 있어?",
+      "en": "Does she ever forget her homework?"
+    },
+    {
+      "id": "day09:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "Steve는 평일에 절대로 술을 안 마셔.",
+      "en": "Steve never drinks on weekdays."
+    },
+    {
+      "id": "day09:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "Steve는 평일에 절대로 술을 안 마셔?",
+      "en": "Does Steve never drink on weekdays?"
+    },
+    {
+      "id": "day09:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "Steve가 평일에 술 마실 때도 있어?",
+      "en": "Does Steve ever drink on weekdays?"
+    },
+    {
+      "id": "day09:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(남자)는 설거지를 거의 안 해.",
+      "en": "He hardly ever does the dishes."
+    },
+    {
+      "id": "day09:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(남자) 설거지를 거의 안 해?",
+      "en": "Does he hardly ever do the dishes?"
+    },
+    {
+      "id": "day09:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(남자)가 설거지를 할 때도 있어?",
+      "en": "Does he ever do the dishes?"
+    },
+    {
+      "id": "day09:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "우리 아버지께선 집안일을 거의 안 하셔.",
+      "en": "My father seldom does the chores."
+    },
+    {
+      "id": "day09:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너희 아버지께선 집안일을 거의 안 하셔?",
+      "en": "Does your father seldom do the chores?"
+    },
+    {
+      "id": "day09:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너희 아버지께서 집안일을 하실 때도 있니?",
+      "en": "Does your father ever do the chores?"
+    },
+    {
+      "id": "day09:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "난 금요일 밤에 항상 친구들하고 놀아.",
+      "en": "I always hang out with my friends on Friday nights."
+    },
+    {
+      "id": "day09:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "너 금요일 밤에 항상 친구들하고 놀아?",
+      "en": "Do you always hang out with your friends on Friday nights?"
+    },
+    {
+      "id": "day09:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "너 친구들하고 놀 때도 있어?",
+      "en": "Do you ever hang out with your friends?"
+    },
+    {
+      "id": "day09:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔(여자)는 자주 약속들을 깨.",
+      "en": "She often breaks promises."
+    },
+    {
+      "id": "day09:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔(여자) 자주 약속들을 깨?",
+      "en": "Does she often break promises?"
+    },
+    {
+      "id": "day09:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔(여자)가 약속들을 깰 때도 있어?",
+      "en": "Does she ever break promises?"
+    },
+    {
+      "id": "day09:14",
+      "num": "14",
+      "group": 14,
+      "type": "sentence",
+      "kr": "나, 일주일에 4번 운동해.",
+      "en": "I exercise 4 times a week."
+    },
+    {
+      "id": "day09:15",
+      "num": "15",
+      "group": 15,
+      "type": "sentence",
+      "kr": "난 한 달에 영화 2편 봐.",
+      "en": "I watch 2 movies a month."
+    },
+    {
+      "id": "day09:16",
+      "num": "16",
+      "group": 16,
+      "type": "sentence",
+      "kr": "난 하루에 커피 다섯 잔 마셔.",
+      "en": "I drink 5 cups of coffee a day."
+    },
+    {
+      "id": "day09:17",
+      "num": "17",
+      "group": 17,
+      "type": "sentence",
+      "kr": "난 여자 친구한테 하루에 두 번 전화해.",
+      "en": "I call my girlfriend twice a day."
+    },
+    {
+      "id": "day09:18",
+      "num": "18",
+      "group": 18,
+      "type": "sentence",
+      "kr": "난 하루에 14시간 일해.",
+      "en": "I work 14 hours a day."
+    },
+    {
+      "id": "day09:19",
+      "num": "19",
+      "group": 19,
+      "type": "sentence",
+      "kr": "한국 사람들은 3년에 한 번씩 자기 차를 바꿔.",
+      "en": "Korean people change their car once every 3 years."
+    },
+    {
+      "id": "day09:20",
+      "num": "20",
+      "group": 20,
+      "type": "sentence",
+      "kr": "나, 네 시간 마다 한 번씩 이 약을 먹어.",
+      "en": "I take this medicine once every 4 hours."
+    },
+    {
+      "id": "day09:21",
+      "num": "21",
+      "group": 21,
+      "type": "sentence",
+      "kr": "걔(여자)는 2주에 한 번 목욕을 해.",
+      "en": "She takes a bath once every 2 weeks."
+    },
+    {
+      "id": "day09:22",
+      "num": "22",
+      "group": 22,
+      "type": "sentence",
+      "kr": "그 학생들은 하루에 5시간 씩 공부해.",
+      "en": "The students study 5 hours a day."
+    },
+    {
+      "id": "day09:23",
+      "num": "23",
+      "group": 23,
+      "type": "sentence",
+      "kr": "걔(남자)는 일주일에 세 번 학교 가.",
+      "en": "He goes to school 3 times a week."
+    },
+    {
+      "id": "day09:24",
+      "num": "24",
+      "group": 24,
+      "type": "sentence",
+      "kr": "나, 하루에 두 번 양치해.",
+      "en": "I brush my teeth twice a day."
+    },
+    {
+      "id": "day09:25",
+      "num": "25",
+      "group": 25,
+      "type": "sentence",
+      "kr": "Steve는 5년에 한 번씩 미국에 가.",
+      "en": "Steve goes to America once every 5 years."
+    },
+    {
+      "id": "day09:26",
+      "num": "26",
+      "group": 26,
+      "type": "sentence",
+      "kr": "걔네들 하루에 네 번 먹어.",
+      "en": "They eat 4 times a day."
+    }
+  ]
+}

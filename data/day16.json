@@ -1,0 +1,391 @@
+{
+  "day": 16,
+  "id": "day16",
+  "title": "예문 Drilling!",
+  "format": "mixed",
+  "count": 40,
+  "declaredCount": 40,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day16/",
+  "items": [
+    {
+      "id": "day16:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "걔(남자)는 자기 옷을 어디에서 사?",
+      "a_en": "Where does he buy his clothes?",
+      "b_kr": "걔(남자), 그것들을 백화점에서 사.",
+      "b_en": "He buys them at the department store."
+    },
+    {
+      "id": "day16:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "그 학생들은 자기들 가방을 어디에 둬?",
+      "a_en": "Where do the students put their bag?",
+      "b_kr": "걔네들, 그것을 자기들 책상 옆에 둬.",
+      "b_en": "They put it next to their desk."
+    },
+    {
+      "id": "day16:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너, 학교 어디로 다니고 있어?",
+      "a_en": "Where are you going to school?",
+      "b_kr": "난 서울대(SNU) 다니고 있어.",
+      "b_en": "I am going to SNU."
+    },
+    {
+      "id": "day16:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "넌 네 여자친구를 어디에서 만났어?",
+      "a_en": "Where did you meet your girlfriend?",
+      "b_kr": "나, 걔 PSE에서 만났어.",
+      "b_en": "I met her at PSE."
+    },
+    {
+      "id": "day16:1.(5)",
+      "num": "1.(5)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "걔네들, 이번 여름에 어디 갈 거야?",
+      "a_en": "Where are they going to go this summer?",
+      "b_kr": "걔네들, 부산에 갈 거야.",
+      "b_en": "They're going to go to Busan."
+    },
+    {
+      "id": "day16:1.(6)",
+      "num": "1.(6)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "걔(남자), 어디서 영어공부 할 거야?",
+      "a_en": "Where is he going to study English?",
+      "b_kr": "걔(남자), PSE에서 영어공부 할 거야.",
+      "b_en": "He's going to study at PSE."
+    },
+    {
+      "id": "day16:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 주로 언제 잠들어?",
+      "a_en": "When do you usually go to sleep?",
+      "b_kr": "나, 자정에 잠들어.",
+      "b_en": "I go to sleep at midnight."
+    },
+    {
+      "id": "day16:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "그 학생들은 언제 자기들 숙제를 해?",
+      "a_en": "When do the students do their homework?",
+      "b_kr": "걔네들, 수업 후에 숙제해.",
+      "b_en": "They do it after class."
+    },
+    {
+      "id": "day16:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 언제 졸업했어?",
+      "a_en": "When did you graduate?",
+      "b_kr": "난 작년에 졸업했어.",
+      "b_en": "I graduated last year."
+    },
+    {
+      "id": "day16:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 언제 걔(남자)하고 얘기했어?",
+      "a_en": "When did you talk to him?",
+      "b_kr": "나, 어젯밤에 걔(남자)하고 얘기했어.",
+      "b_en": "I talked to him last night."
+    },
+    {
+      "id": "day16:2.(5)",
+      "num": "2.(5)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "걔(여자), 언제 집에 갈 거야?",
+      "a_en": "When is she going to go home?",
+      "b_kr": "걔(여자), 열시에 집에 갈 거야.",
+      "b_en": "She's going to go home at 10."
+    },
+    {
+      "id": "day16:2.(6)",
+      "num": "2.(6)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "걔네들, 언제 이사 갈 거야?",
+      "a_en": "When are they going to move?",
+      "b_kr": "걔네들, 내년에 이사 갈 거야.",
+      "b_en": "They're going to move next year."
+    },
+    {
+      "id": "day16:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 남자친구 어떻게 만났어?",
+      "a_en": "How did you meet your boyfriend?",
+      "b_kr": "내 친구가 우리를 소개시켜줬어.",
+      "b_en": "My friend introduced us."
+    },
+    {
+      "id": "day16:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "걔들은 어떻게 학교 가?",
+      "a_en": "How do they go to school?",
+      "b_kr": "걔네들, 지하철을 타.",
+      "b_en": "They take the subway."
+    },
+    {
+      "id": "day16:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 영어공부 어떻게 하고 있어?",
+      "a_en": "How are you studying English?",
+      "b_kr": "나, PSE에 다니고 있어.",
+      "b_en": "I'm going to PSE."
+    },
+    {
+      "id": "day16:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "걔(남자), 자기 휴대전화를 어떻게 망가트렸어?",
+      "a_en": "How did he break his cell phone?",
+      "b_kr": "걔(남자), 그걸 떨어트렸어.",
+      "b_en": "He dropped it."
+    },
+    {
+      "id": "day16:3.(5)",
+      "num": "3.(5)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "그 학생들, 어떻게 시험공부할 거야?",
+      "a_en": "How are the students going to study for the test?",
+      "b_kr": "걔네들, 자기들 자료들을 복습할 거야.",
+      "b_en": "They're going to review their materials."
+    },
+    {
+      "id": "day16:3.(6)",
+      "num": "3.(6)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "걔(남자), 어떻게 살 뺄 거야?",
+      "a_en": "How is he going to lose weight?",
+      "b_kr": "걔(남자), 다이어트 할 거야.",
+      "b_en": "He's going to go on a diet."
+    },
+    {
+      "id": "day16:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "네 여자친구, 얼마나 예뻐?",
+      "a_en": "How pretty is your girlfriend?",
+      "b_kr": "걔(여자), 정말 예뻐.",
+      "b_en": "She's beautiful."
+    },
+    {
+      "id": "day16:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "시험이 얼마나 어려울까요?",
+      "a_en": "How hard is the test going to be?",
+      "b_kr": "진짜 어려울 거예요.",
+      "b_en": "It's going to be really hard."
+    },
+    {
+      "id": "day16:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "영화가 얼마나 길었어?",
+      "a_en": "How long was the movie?",
+      "b_kr": "진짜 길었어.",
+      "b_en": "It was very long."
+    },
+    {
+      "id": "day16:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "걔(남자) 영어 실력이 얼마나 좋아?",
+      "a_en": "How good is his English?",
+      "b_kr": "아주 좋아.",
+      "b_en": "It's very good."
+    },
+    {
+      "id": "day16:4.(5)",
+      "num": "4.(5)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "저 국수가 얼마나 매워?",
+      "a_en": "How spicy are those noodles?",
+      "b_kr": "진짜 매워.",
+      "b_en": "They are really spicy."
+    },
+    {
+      "id": "day16:4.(6)",
+      "num": "4.(6)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "노트북이 얼마나 비쌀까요?",
+      "a_en": "How expensive is the laptop going to be?",
+      "b_kr": "진짜 비쌀 겁니다.",
+      "b_en": "It's going to be really expensive."
+    },
+    {
+      "id": "day16:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "걔(여자)는 걔(남자)를 왜 좋아해?",
+      "a_en": "Why does she like him?",
+      "b_kr": "걔(남자)가 잘 생겨서.",
+      "b_en": "It's because he is good-looking."
+    },
+    {
+      "id": "day16:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "넌 왜 남자친구랑 싸워?",
+      "a_en": "Why do you fight with your boyfriend?",
+      "b_kr": "걔(남자)가 날 이해하지 않아서.",
+      "b_en": "It's because he doesn't understand me."
+    },
+    {
+      "id": "day16:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "넌 왜 네 일을 안 했어?",
+      "a_en": "Why didn't you do your work?",
+      "b_kr": "내가 바빴어서.",
+      "b_en": "It's because I was busy."
+    },
+    {
+      "id": "day16:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "너, 오늘 아침에 왜 늦었어?",
+      "a_en": "Why were you late this morning?",
+      "b_kr": "차가 많았어서.",
+      "b_en": "It's because there was traffic."
+    },
+    {
+      "id": "day16:5.(5)",
+      "num": "5.(5)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "너, 왜 수업 빠질 거야?",
+      "a_en": "Why are you going to miss the class?",
+      "b_kr": "내가 병원 예약이 있어서.",
+      "b_en": "It's because I have a doctor's appointment."
+    },
+    {
+      "id": "day16:5.(6)",
+      "num": "5.(6)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "걔네들 왜 신났어?",
+      "a_en": "Why are they excited?",
+      "b_kr": "월급날이어서 그래.",
+      "b_en": "It's because it’s payday."
+    },
+    {
+      "id": "day16:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너, 얼마나 일찍 일어날 거야?",
+      "en": "How early are you going to wake up?"
+    },
+    {
+      "id": "day16:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너, 네 여자친구한테 얼마나 자주 전화해?",
+      "en": "How often do you call your girlfriend?"
+    },
+    {
+      "id": "day16:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔네들, 얼마나 빨리 일을 끝냈어?",
+      "en": "How quickly did they finish the work?"
+    },
+    {
+      "id": "day16:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(여자), 얼마나 느리게 운전 해?",
+      "en": "How slowly does she drive?"
+    },
+    {
+      "id": "day16:6.(5)",
+      "num": "6.(5)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자), 얼마나 심하게 다리가 부러졌어?",
+      "en": "How badly did he break his leg?"
+    },
+    {
+      "id": "day16:6.(6)",
+      "num": "6.(6)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "학생들이 선생님께 얼마나 예의바르게 말을 걸어?",
+      "en": "How politely do the students talk to the teacher?"
+    },
+    {
+      "id": "day16:6.(7)",
+      "num": "6.(7)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너, 얼마나 자주 네 친구들을 만나?",
+      "en": "How often do you see your friends?"
+    },
+    {
+      "id": "day16:6.(8)",
+      "num": "6.(8)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "그 학생이 얼마나 조용하게 교실에서 나갔어?",
+      "en": "How quietly did the student leave the classroom?"
+    },
+    {
+      "id": "day16:6.(9)",
+      "num": "6.(9)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "수업이 얼마나 늦게 시작했어?",
+      "en": "How late did the class start?"
+    },
+    {
+      "id": "day16:6.(10)",
+      "num": "6.(10)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(여자), 얼마나 영어를 잘해?",
+      "en": "How well does she speak English?"
+    }
+  ]
+}

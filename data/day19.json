@@ -1,0 +1,539 @@
+{
+  "day": 19,
+  "id": "day19",
+  "title": "의무/충고 표현 Drilling!",
+  "format": "sentence",
+  "count": 66,
+  "declaredCount": 60,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day19/",
+  "items": [
+    {
+      "id": "day19:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 내일 일찍 일어나야 돼.",
+      "en": "I have to wake up early tomorrow."
+    },
+    {
+      "id": "day19:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 내일 일찍 일어나야 돼?",
+      "en": "Do you have to wake up early tomorrow?"
+    },
+    {
+      "id": "day19:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 내일 일찍 안 일어나도 돼.",
+      "en": "I don't have to wake up early tomorrow."
+    },
+    {
+      "id": "day19:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 내일 일찍 안 일어나도 돼?",
+      "en": "Don't you have to wake up early tomorrow?"
+    },
+    {
+      "id": "day19:1.(5)",
+      "num": "1.(5)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 보통 얼마나 일찍 일어나야 돼?",
+      "en": "How early do you usually have to wake up?"
+    },
+    {
+      "id": "day19:1.(6)",
+      "num": "1.(6)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 내일 몇 시에 일어나야 돼?",
+      "en": "What time do you have to wake up tomorrow?"
+    },
+    {
+      "id": "day19:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나는 내일 학교 가야 돼.",
+      "en": "I have to go to school tomorrow."
+    },
+    {
+      "id": "day19:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 내일 학교 가야 돼?",
+      "en": "Do you have to go to school tomorrow?"
+    },
+    {
+      "id": "day19:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나는 내일 학교 안 가도 돼.",
+      "en": "I don't have to go to school tomorrow."
+    },
+    {
+      "id": "day19:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 내일 학교 안 가도 돼?",
+      "en": "Don't you have to go to school tomorrow?"
+    },
+    {
+      "id": "day19:2.(5)",
+      "num": "2.(5)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 내일 어디 가야 돼?",
+      "en": "Where do you have to go tomorrow?"
+    },
+    {
+      "id": "day19:2.(6)",
+      "num": "2.(6)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 내일 왜 학교 안 가도 돼?",
+      "en": "Why don't you have to go to school tomorrow?"
+    },
+    {
+      "id": "day19:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너, 그 치킨 꼭 먹어봐야 돼.",
+      "en": "You have to try the chicken."
+    },
+    {
+      "id": "day19:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "Steve는 아침 안 먹어도 돼?",
+      "en": "Doesn't Steve have to have breakfast?"
+    },
+    {
+      "id": "day19:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "걔네들, 항상 수업 전에 화장실 써야 해.",
+      "en": "They always have to use the restroom before class."
+    },
+    {
+      "id": "day19:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너, 왜 시험공부를 안 해도 돼?",
+      "en": "Why don't you have to study for the test?"
+    },
+    {
+      "id": "day19:3.(5)",
+      "num": "3.(5)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "우리, 언제 그 일정에 대해 이야기해야 돼?",
+      "en": "When do we have to talk about the schedule?"
+    },
+    {
+      "id": "day19:3.(6)",
+      "num": "3.(6)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "Alpha들은 PSE에서 영어로 이야기해야 돼.",
+      "en": "The Alphas have to speak English at PSE."
+    },
+    {
+      "id": "day19:3.(7)",
+      "num": "3.(7)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "우리, 토요일에 일 안 해도 돼.",
+      "en": "We don't have to work on Saturday."
+    },
+    {
+      "id": "day19:3.(8)",
+      "num": "3.(8)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "애들, 지금 안 자러 가도 돼?",
+      "en": "Don't the children have to go to bed now?"
+    },
+    {
+      "id": "day19:3.(9)",
+      "num": "3.(9)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너, 보통 몇 시에 나가야 돼?",
+      "en": "What time do you usually have to leave?"
+    },
+    {
+      "id": "day19:3.(10)",
+      "num": "3.(10)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "내가 파티에 무엇을 가져와야 해?",
+      "en": "What do I have to bring to the party?"
+    },
+    {
+      "id": "day19:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "걔(여자)는 자기 방을 청소해야 돼.",
+      "en": "She needs to clean her room."
+    },
+    {
+      "id": "day19:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 방 청소해야 돼?",
+      "en": "Does she need to clean her room?"
+    },
+    {
+      "id": "day19:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "걔(여자)는 자기 방 청소 안 해도 돼.",
+      "en": "She doesn't need to clean her room."
+    },
+    {
+      "id": "day19:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 방 청소 안 해도 돼?",
+      "en": "Doesn't she need to clean her room?"
+    },
+    {
+      "id": "day19:4.(5)",
+      "num": "4.(5)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "누가 일주일에 두 번 방을 청소해야 돼?",
+      "en": "Who needs to clean their room twice a week?"
+    },
+    {
+      "id": "day19:4.(6)",
+      "num": "4.(6)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "걔(여자)는 무엇을 청소해야 돼?",
+      "en": "What does she need to clean?"
+    },
+    {
+      "id": "day19:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 연습해야 돼.",
+      "en": "The Deltas need to practice the sentences."
+    },
+    {
+      "id": "day19:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 연습해야 돼?",
+      "en": "Do the Deltas need to practice the sentences?"
+    },
+    {
+      "id": "day19:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 연습 안 해도 돼.",
+      "en": "The Deltas don't need to practice the sentences."
+    },
+    {
+      "id": "day19:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 연습 안 해도 돼?",
+      "en": "Don't the Deltas need to practice the sentences?"
+    },
+    {
+      "id": "day19:5.(5)",
+      "num": "5.(5)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 어떻게 연습해야 돼?",
+      "en": "How do the Deltas need to practice the sentences?"
+    },
+    {
+      "id": "day19:5.(6)",
+      "num": "5.(6)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "Delta들은 무엇을 해야 돼?",
+      "en": "What do the Deltas need to do?"
+    },
+    {
+      "id": "day19:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "우리, 선물 사야 돼?",
+      "en": "Do we need to buy a present?"
+    },
+    {
+      "id": "day19:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "누가 자기 휴대폰을 충전해야 돼?",
+      "en": "Who needs to charge their phone?"
+    },
+    {
+      "id": "day19:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "모든 사람들은 PSE에서 영어를 배워야 돼.",
+      "en": "Everyone needs to learn English at PSE."
+    },
+    {
+      "id": "day19:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "당연히, 너는 살 뺄 필요 없지.",
+      "en": "Of course, you don't need to lose weight."
+    },
+    {
+      "id": "day19:6.(5)",
+      "num": "6.(5)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "나, 마트에서 뭐 사야 되지?",
+      "en": "What do I need to buy at the grocery store?"
+    },
+    {
+      "id": "day19:6.(6)",
+      "num": "6.(6)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "나, 2주에 한 번 머리 잘라야 돼.",
+      "en": "I need to get a haircut once every two weeks."
+    },
+    {
+      "id": "day19:6.(7)",
+      "num": "6.(7)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "우리, 어느 숙제를 끝내야 돼?",
+      "en": "Which assignment do we need to finish?"
+    },
+    {
+      "id": "day19:6.(8)",
+      "num": "6.(8)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너, 가끔 이메일 확인해야 돼.",
+      "en": "You sometimes need to check your email."
+    },
+    {
+      "id": "day19:6.(9)",
+      "num": "6.(9)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "내가 언제 모든 사람들의 돈을 걷어야 돼?",
+      "en": "When do I need to collect everyone's money?"
+    },
+    {
+      "id": "day19:6.(10)",
+      "num": "6.(10)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "너, 샤워해야 되지 않아?",
+      "en": "Don't you need to take a shower?"
+    },
+    {
+      "id": "day19:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 천천히 반복하는 게 좋아.",
+      "en": "The Deltas should repeat the sentences slowly."
+    },
+    {
+      "id": "day19:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 천천히 반복하는 게 좋을까?",
+      "en": "Should the Deltas repeat the sentences slowly?"
+    },
+    {
+      "id": "day19:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 천천히 반복하면 안 돼.",
+      "en": "The Deltas shouldn't repeat the sentences slowly."
+    },
+    {
+      "id": "day19:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 천천히 반복하는 게 좋지 않을까?",
+      "en": "Shouldn't the Deltas repeat the sentences slowly?"
+    },
+    {
+      "id": "day19:7.(5)",
+      "num": "7.(5)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Delta들은 그 문장들을 얼마나 천천히 반복해야 해?",
+      "en": "How slowly should the Deltas repeat the sentences?"
+    },
+    {
+      "id": "day19:7.(6)",
+      "num": "7.(6)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "누가 그 문장들을 천천히 반복하는 게 좋아?",
+      "en": "Who should repeat the sentences slowly?"
+    },
+    {
+      "id": "day19:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔네들, 그 문제에 대해 이야기하는 게 좋아.",
+      "en": "They should talk about the problem."
+    },
+    {
+      "id": "day19:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔네 그 문제에 대해 이야기하는 게 좋을까?",
+      "en": "Should they talk about the problem?"
+    },
+    {
+      "id": "day19:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔네들, 그 문제에 대해 이야기하지 않는 게 좋아.",
+      "en": "They shouldn't talk about the problem."
+    },
+    {
+      "id": "day19:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔네 그 문제에 대해 이야기하는 게 좋지 않아?",
+      "en": "Shouldn't they talk about the problem?"
+    },
+    {
+      "id": "day19:8.(5)",
+      "num": "8.(5)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔네 언제 그 문제에 대해 이야기하는 게 좋아?",
+      "en": "When should they talk about the problem?"
+    },
+    {
+      "id": "day19:8.(6)",
+      "num": "8.(6)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "걔네 얼마나 빨리 그 문제에 대해 이야기해야 해?",
+      "en": "How quickly should they talk about the problem?"
+    },
+    {
+      "id": "day19:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너, 식사 후에 양치하는 게 좋아.",
+      "en": "You should brush your teeth after meals."
+    },
+    {
+      "id": "day19:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "학생들은 자기 수업자료를 매일 복습하는 게 좋아.",
+      "en": "The students should review their materials every day."
+    },
+    {
+      "id": "day19:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "내가 너한테 언제 전화하는 게 좋을까?",
+      "en": "When should I call you?"
+    },
+    {
+      "id": "day19:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너, 내일 우산 챙겨오는 게 좋아.",
+      "en": "You should bring an umbrella tomorrow."
+    },
+    {
+      "id": "day19:9.(5)",
+      "num": "9.(5)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자), 일 그만두면 안 돼.",
+      "en": "She shouldn't quit her job."
+    },
+    {
+      "id": "day19:9.(6)",
+      "num": "9.(6)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나, 항상 컴퓨터를 끄는 게 좋을까?",
+      "en": "Should I always turn off the computer?"
+    },
+    {
+      "id": "day19:9.(7)",
+      "num": "9.(7)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(남자), 걔네들을 파티에 초대하면 안 돼.",
+      "en": "He shouldn't invite them to the party."
+    },
+    {
+      "id": "day19:9.(8)",
+      "num": "9.(8)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나, 아침에 물을 얼마나 많이 마시는 게 좋아?",
+      "en": "How much water should I drink in the morning?"
+    },
+    {
+      "id": "day19:9.(9)",
+      "num": "9.(9)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너, 절대 Steve 믿으면 안 돼.",
+      "en": "You should never believe Steve."
+    },
+    {
+      "id": "day19:9.(10)",
+      "num": "9.(10)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "내가 수업 끝나고 너를 기다리는 게 좋을까?",
+      "en": "Should I wait for you after class?"
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "day": 11,
+  "id": "day11",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 64,
+  "declaredCount": 64,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day11/",
+  "items": [
+    {
+      "id": "day11:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 지금 카페에서 공부하고 있어.",
+      "en": "I'm studying at a coffee shop now."
+    },
+    {
+      "id": "day11:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 지금 카페에서 공부하고 있니?",
+      "en": "Are you studying at a coffee shop now?"
+    },
+    {
+      "id": "day11:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 지금 카페에서 공부하고 있지 않아.",
+      "en": "I'm not studying at a coffee shop now."
+    },
+    {
+      "id": "day11:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 지금 카페에서 공부하고 있는 거 아니니?",
+      "en": "Aren't you studying at a coffee shop now?"
+    },
+    {
+      "id": "day11:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나는 지금 걔(남자)한테 문자하고 있어.",
+      "en": "I'm texting him now."
+    },
+    {
+      "id": "day11:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 지금 걔(남자)한테 문자하고 있니?",
+      "en": "Are you texting him now?"
+    },
+    {
+      "id": "day11:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나는 지금 걔(남자)한테 문자하고 있지 않아.",
+      "en": "I'm not texting him now."
+    },
+    {
+      "id": "day11:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 지금 걔(남자)한테 문자하고 있는 거 아니니?",
+      "en": "Aren't you texting him now?"
+    },
+    {
+      "id": "day11:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나는 이번 달에 Delta 수업 듣고 있어.",
+      "en": "I'm taking the Delta class this month."
+    },
+    {
+      "id": "day11:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 이번 달에 Delta 수업 듣고 있니?",
+      "en": "Are you taking the Delta class this month?"
+    },
+    {
+      "id": "day11:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나는 이번 달에 Delta 수업 듣고 있지 않아.",
+      "en": "I'm not taking the Delta class this month."
+    },
+    {
+      "id": "day11:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 이번 달에 Delta 수업 듣고 있는 거 아니니?",
+      "en": "Aren't you taking the Delta class this month?"
+    },
+    {
+      "id": "day11:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "넌 날 귀찮게 하고 있어.",
+      "en": "You are bothering me."
+    },
+    {
+      "id": "day11:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "내가 널 귀찮게 하고 있니?",
+      "en": "Am I bothering you?"
+    },
+    {
+      "id": "day11:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "넌 날 귀찮게 하고 있지 않아.",
+      "en": "You aren't bothering me."
+    },
+    {
+      "id": "day11:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "내가 널 귀찮게 하고 있는 거 아니니?",
+      "en": "Aren't I bothering you?"
+    },
+    {
+      "id": "day11:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "우리 엄마는 저녁을 만들고 계셔.",
+      "en": "My mother is making dinner."
+    },
+    {
+      "id": "day11:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "너희 어머니 저녁 만들고 계시니?",
+      "en": "Is your mother making dinner?"
+    },
+    {
+      "id": "day11:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "우리 엄마는 저녁을 만들고 계시지 않아.",
+      "en": "My mother isn't making dinner."
+    },
+    {
+      "id": "day11:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "너희 어머니 저녁 만들고 계신 거 아니니?",
+      "en": "Isn't your mother making dinner?"
+    },
+    {
+      "id": "day11:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "저 팀이 이기고 있어.",
+      "en": "That team is winning."
+    },
+    {
+      "id": "day11:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "저 팀이 이기고 있니?",
+      "en": "Is that team winning?"
+    },
+    {
+      "id": "day11:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "저 팀이 이기고 있지 않아.",
+      "en": "That team isn't winning."
+    },
+    {
+      "id": "day11:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "저 팀이 이기고 있는 거 아니니?",
+      "en": "Isn't that team winning?"
+    },
+    {
+      "id": "day11:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "나, 뭘 좀 찾고 있어.",
+      "en": "I'm looking for something."
+    },
+    {
+      "id": "day11:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너 뭐 좀 찾고 있니?",
+      "en": "Are you looking for something?"
+    },
+    {
+      "id": "day11:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "나 뭐 찾고 있지 않아.",
+      "en": "I'm not looking for something."
+    },
+    {
+      "id": "day11:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너 뭐 찾고 있는 거 아니니?",
+      "en": "Aren't you looking for something?"
+    },
+    {
+      "id": "day11:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "그 사람들은 영화표를 사고 있어.",
+      "en": "They are buying tickets for the movie."
+    },
+    {
+      "id": "day11:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "그 사람들은 영화표를 사고 있니?",
+      "en": "Are they buying tickets for the movie?"
+    },
+    {
+      "id": "day11:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "그 사람들은 영화표를 사고 있지 않아.",
+      "en": "They aren't buying tickets for the movie."
+    },
+    {
+      "id": "day11:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "그 사람들은 영화표를 사고 있는 게 아니니?",
+      "en": "Aren't they buying tickets for the movie?"
+    },
+    {
+      "id": "day11:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나 요즘 영어 배우고 있어.",
+      "en": "I'm learning English these days."
+    },
+    {
+      "id": "day11:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너 요즘 영어 배우고 있니?",
+      "en": "Are you learning English these days?"
+    },
+    {
+      "id": "day11:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나 요즘 영어 배우고 있지 않아.",
+      "en": "I'm not learning English these days."
+    },
+    {
+      "id": "day11:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너 요즘 영어 배우고 있는 거 아니니?",
+      "en": "Aren't you learning English these days?"
+    },
+    {
+      "id": "day11:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "나 오늘 렌즈 꼈어. (끼고 있어.)",
+      "en": "I'm wearing contacts today."
+    },
+    {
+      "id": "day11:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "너 오늘 렌즈 꼈니?",
+      "en": "Are you wearing contacts today?"
+    },
+    {
+      "id": "day11:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "나 오늘 렌즈 안 꼈어.",
+      "en": "I'm not wearing contacts today."
+    },
+    {
+      "id": "day11:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "너 오늘 렌즈 낀 거 아니니?",
+      "en": "Aren't you wearing contacts today?"
+    },
+    {
+      "id": "day11:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "Steve는 덥고 습한 날씨를 정말 싫어해.",
+      "en": "Steve hates hot and humid weather."
+    },
+    {
+      "id": "day11:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "Steve는 덥고 습한 날씨를 정말 싫어하니?",
+      "en": "Does Steve hate hot and humid weather?"
+    },
+    {
+      "id": "day11:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "Steve는 덥고 습한 날씨를 정말 싫어하지는 않아.",
+      "en": "Steve doesn't hate hot and humid weather."
+    },
+    {
+      "id": "day11:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "Steve는 덥고 습한 날씨를 정말 싫어하지 않니?",
+      "en": "Doesn't Steve hate hot and humid weather?"
+    },
+    {
+      "id": "day11:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우리 언니(누나)는 명품가방을 갖고 싶어 해.",
+      "en": "My sister wants a designer bag."
+    },
+    {
+      "id": "day11:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "너희 언니(누나)는 명품가방을 갖고 싶어 하니?",
+      "en": "Does your sister want a designer bag?"
+    },
+    {
+      "id": "day11:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우리 언니(누나)는 명품가방을 갖고 싶어 하지 않아.",
+      "en": "My sister doesn't want a designer bag."
+    },
+    {
+      "id": "day11:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "너희 언니(누나)는 명품가방을 갖고 싶어 하지 않니?",
+      "en": "Doesn't your sister want a designer bag?"
+    },
+    {
+      "id": "day11:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "넌 나를 놀라게 해.",
+      "en": "You surprise me."
+    },
+    {
+      "id": "day11:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "내가 널 놀라게 하니?",
+      "en": "Do I surprise you?"
+    },
+    {
+      "id": "day11:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "넌 날 놀라게 하지 않아.",
+      "en": "You don't surprise me."
+    },
+    {
+      "id": "day11:13.(4)",
+      "num": "13.(4)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "내가 널 놀라게 하지 않니?",
+      "en": "Don't I surprise you?"
+    },
+    {
+      "id": "day11:14.(1)",
+      "num": "14.(1)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "Steve는 내 이름을 기억하고 있어.",
+      "en": "Steve remembers my name."
+    },
+    {
+      "id": "day11:14.(2)",
+      "num": "14.(2)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "Steve가 네 이름을 기억하고 있니?",
+      "en": "Does Steve remember your name?"
+    },
+    {
+      "id": "day11:14.(3)",
+      "num": "14.(3)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "Steve는 내 이름을 기억하지 못해.",
+      "en": "Steve doesn't remember my name."
+    },
+    {
+      "id": "day11:14.(4)",
+      "num": "14.(4)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "Steve가 네 이름을 기억하고 있지 않니?",
+      "en": "Doesn't Steve remember your name?"
+    },
+    {
+      "id": "day11:15.(1)",
+      "num": "15.(1)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "난 금요일에 소개팅이 있어.",
+      "en": "I have a blind date on Friday."
+    },
+    {
+      "id": "day11:15.(2)",
+      "num": "15.(2)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "너 금요일에 소개팅 있니?",
+      "en": "Do you have a blind date on Friday?"
+    },
+    {
+      "id": "day11:15.(3)",
+      "num": "15.(3)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "난 금요일에 소개팅 없어.",
+      "en": "I don't have a blind date on Friday."
+    },
+    {
+      "id": "day11:15.(4)",
+      "num": "15.(4)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "너 금요일에 소개팅 있는 거 아니니?",
+      "en": "Don't you have a blind date on Friday?"
+    },
+    {
+      "id": "day11:16.(1)",
+      "num": "16.(1)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "난 지금 당장 네 도움이 필요해.",
+      "en": "I need your help right now."
+    },
+    {
+      "id": "day11:16.(2)",
+      "num": "16.(2)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "지금 당장 내 도움이 필요하니?",
+      "en": "Do you need my help right now?"
+    },
+    {
+      "id": "day11:16.(3)",
+      "num": "16.(3)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "난 지금 당장 네 도움이 필요하지 않아.",
+      "en": "I don't need your help right now."
+    },
+    {
+      "id": "day11:16.(4)",
+      "num": "16.(4)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "지금 당장 내 도움이 필요한 거 아니니?",
+      "en": "Don't you need my help right now?"
+    }
+  ]
+}

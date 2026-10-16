@@ -1,0 +1,523 @@
+{
+  "day": 7,
+  "id": "day07",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 64,
+  "declaredCount": 64,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day07/",
+  "items": [
+    {
+      "id": "day07:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 8시에 PSE에 와.",
+      "en": "I come to PSE at 8."
+    },
+    {
+      "id": "day07:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 8시에 PSE에 와?",
+      "en": "Do you come to PSE at 8?"
+    },
+    {
+      "id": "day07:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 8시에 PSE에 안 와.",
+      "en": "I don't come to PSE at 8."
+    },
+    {
+      "id": "day07:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 8시에 PSE에 안 와?",
+      "en": "Don't you come to PSE at 8?"
+    },
+    {
+      "id": "day07:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나는 9시부터 5시까지 일해.",
+      "en": "I work from 9 to 5."
+    },
+    {
+      "id": "day07:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 9시부터 5시까지 일해?",
+      "en": "Do you work from 9 to 5?"
+    },
+    {
+      "id": "day07:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나는 9시부터 5시까지 일 안 해.",
+      "en": "I don't work from 9 to 5."
+    },
+    {
+      "id": "day07:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 9시부터 5시까지 일 안 해?",
+      "en": "Don't you work from 9 to 5?"
+    },
+    {
+      "id": "day07:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나는 주말에 쉬어.",
+      "en": "I relax on the weekend."
+    },
+    {
+      "id": "day07:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 주말에 쉬어?",
+      "en": "Do you relax on the weekend?"
+    },
+    {
+      "id": "day07:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나는 주말에 안 쉬어.",
+      "en": "I don't relax on the weekend."
+    },
+    {
+      "id": "day07:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 주말에 안 쉬어?",
+      "en": "Don't you relax on the weekend?"
+    },
+    {
+      "id": "day07:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "나는 버스에서 음악을 들어.",
+      "en": "I listen to music on the bus."
+    },
+    {
+      "id": "day07:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 버스에서 음악 들어?",
+      "en": "Do you listen to music on the bus?"
+    },
+    {
+      "id": "day07:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "나는 버스에서 음악 안 들어.",
+      "en": "I don't listen to music on the bus."
+    },
+    {
+      "id": "day07:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 버스에서 음악 안 들어?",
+      "en": "Don't you listen to music on the bus?"
+    },
+    {
+      "id": "day07:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "나는 시간 있을 때 독서해.",
+      "en": "I read in my free time."
+    },
+    {
+      "id": "day07:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "너 시간 있을 때 독서해?",
+      "en": "Do you read in your free time?"
+    },
+    {
+      "id": "day07:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "나는 시간 있을 때 독서 안 해.",
+      "en": "I don't read in my free time."
+    },
+    {
+      "id": "day07:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "너 시간 있을 때 독서 안 해?",
+      "en": "Don't you read in your free time?"
+    },
+    {
+      "id": "day07:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Steve는 여기 7시 정각에 도착해.",
+      "en": "Steve gets here at 7:00."
+    },
+    {
+      "id": "day07:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Steve 여기 7시 정각에 도착해?",
+      "en": "Does Steve get here at 7:00?"
+    },
+    {
+      "id": "day07:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Steve는 여기 7시 정각에 도착 안 해.",
+      "en": "Steve doesn't get here at 7:00."
+    },
+    {
+      "id": "day07:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Steve 여기 7시 정각에 도착 안 해?",
+      "en": "Doesn't Steve get here at 7:00?"
+    },
+    {
+      "id": "day07:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Chris는 원룸에 살아.",
+      "en": "Chris lives in a studio."
+    },
+    {
+      "id": "day07:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Chris 원룸에 살아?",
+      "en": "Does Chris live in a studio?"
+    },
+    {
+      "id": "day07:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Chris는 원룸에 안 살아.",
+      "en": "Chris doesn't live in a studio."
+    },
+    {
+      "id": "day07:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "Chris 원룸에 안 살아?",
+      "en": "Doesn't Chris live in a studio?"
+    },
+    {
+      "id": "day07:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve는 매년 비행기 타고 미국에 가.",
+      "en": "Steve flies to America every year."
+    },
+    {
+      "id": "day07:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve 매년 비행기 타고 미국에 가?",
+      "en": "Does Steve fly to America every year?"
+    },
+    {
+      "id": "day07:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve는 매년 비행기 타고 미국에 안 가.",
+      "en": "Steve doesn't fly to America every year."
+    },
+    {
+      "id": "day07:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve 매년 비행기 타고 미국에 안 가?",
+      "en": "Doesn't Steve fly to America every year?"
+    },
+    {
+      "id": "day07:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나는 주말에 정오에 일어나.",
+      "en": "I wake up at noon on the weekend."
+    },
+    {
+      "id": "day07:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너 주말에 정오에 일어나?",
+      "en": "Do you wake up at noon on the weekend?"
+    },
+    {
+      "id": "day07:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "나는 주말에 정오에 안 일어나.",
+      "en": "I don't wake up at noon on the weekend."
+    },
+    {
+      "id": "day07:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "너 주말에 정오에 안 일어나?",
+      "en": "Don't you wake up at noon on the weekend?"
+    },
+    {
+      "id": "day07:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(남자)는 앞쪽에 앉아.",
+      "en": "He sits in the front."
+    },
+    {
+      "id": "day07:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(남자) 앞쪽에 앉아?",
+      "en": "Does he sit in the front?"
+    },
+    {
+      "id": "day07:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(남자)는 앞쪽에 안 앉아.",
+      "en": "He doesn't sit in the front."
+    },
+    {
+      "id": "day07:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "걔(남자) 앞쪽에 안 앉아?",
+      "en": "Doesn't he sit in the front?"
+    },
+    {
+      "id": "day07:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "그 영화는 10시에 시작해.",
+      "en": "The movie starts at 10."
+    },
+    {
+      "id": "day07:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "그 영화 10시에 시작해?",
+      "en": "Does the movie start at 10?"
+    },
+    {
+      "id": "day07:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "그 영화는 10시에 시작 안 해.",
+      "en": "The movie doesn't start at 10."
+    },
+    {
+      "id": "day07:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "그 영화 10시에 시작 안 해?",
+      "en": "Doesn't the movie start at 10?"
+    },
+    {
+      "id": "day07:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔들은 겨울에 보드 타.",
+      "en": "They snowboard in the winter."
+    },
+    {
+      "id": "day07:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔네 겨울에 보드 타?",
+      "en": "Do they snowboard in the winter?"
+    },
+    {
+      "id": "day07:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔들은 겨울에 보드 안 타.",
+      "en": "They don't snowboard in the winter."
+    },
+    {
+      "id": "day07:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔네 겨울에 보드 안 타?",
+      "en": "Don't they snowboard in the winter?"
+    },
+    {
+      "id": "day07:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔네들은 걸어서 학교 가.",
+      "en": "They walk to school."
+    },
+    {
+      "id": "day07:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔네 걸어서 학교 가?",
+      "en": "Do they walk to school?"
+    },
+    {
+      "id": "day07:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔네들은 걸어서 학교 안 가.",
+      "en": "They don't walk to school."
+    },
+    {
+      "id": "day07:13.(4)",
+      "num": "13.(4)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔네 걸어서 학교 안 가?",
+      "en": "Don't they walk to school?"
+    },
+    {
+      "id": "day07:14.(1)",
+      "num": "14.(1)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "내 친구들이랑 나는 금요일마다 술을 마셔.",
+      "en": "My friends and I drink every Friday."
+    },
+    {
+      "id": "day07:14.(2)",
+      "num": "14.(2)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "너랑 네 친구들은 금요일마다 술 마셔?",
+      "en": "Do you and your friends drink every Friday?"
+    },
+    {
+      "id": "day07:14.(3)",
+      "num": "14.(3)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "내 친구들이랑 나는 금요일마다 술 안 마셔.",
+      "en": "My friends and I don't drink every Friday."
+    },
+    {
+      "id": "day07:14.(4)",
+      "num": "14.(4)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "너랑 네 친구들은 금요일마다 술 안 마셔?",
+      "en": "Don't you and your friends drink every Friday?"
+    },
+    {
+      "id": "day07:15.(1)",
+      "num": "15.(1)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "그 학생들은 선생님께 수업 후에 말을 걸어.",
+      "en": "The students talk to the teacher after class."
+    },
+    {
+      "id": "day07:15.(2)",
+      "num": "15.(2)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "그 학생들은 선생님께 수업 후에 말 걸어?",
+      "en": "Do the students talk to the teacher after class?"
+    },
+    {
+      "id": "day07:15.(3)",
+      "num": "15.(3)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "그 학생들은 선생님께 수업 후에 말 안 걸어.",
+      "en": "The students don't talk to the teacher after class."
+    },
+    {
+      "id": "day07:15.(4)",
+      "num": "15.(4)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "그 학생들은 선생님께 수업 후에 말 안 걸어?",
+      "en": "Don't the students talk to the teacher after class?"
+    },
+    {
+      "id": "day07:16.(1)",
+      "num": "16.(1)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "Delta들은 3층에서 공부해.",
+      "en": "The Deltas study on the 3rd floor."
+    },
+    {
+      "id": "day07:16.(2)",
+      "num": "16.(2)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "Delta들은 3층에서 공부해?",
+      "en": "Do the Deltas study on the 3rd floor?"
+    },
+    {
+      "id": "day07:16.(3)",
+      "num": "16.(3)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "Delta들은 3층에서 공부 안 해.",
+      "en": "The Deltas don't study on the 3rd floor."
+    },
+    {
+      "id": "day07:16.(4)",
+      "num": "16.(4)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "Delta들은 3층에서 공부 안 해?",
+      "en": "Don't the Deltas study on the 3rd floor?"
+    }
+  ]
+}

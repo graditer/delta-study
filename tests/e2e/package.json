@@ -1,0 +1,11 @@
+{
+  "name": "pes-study-app-e2e",
+  "private": true,
+  "description": "PES Delta 학습 앱 E2E 테스트 (Playwright + 설치된 Chrome 사용)",
+  "scripts": {
+    "test": "node run-all.js"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.50.0"
+  }
+}

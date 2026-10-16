@@ -1,0 +1,158 @@
+{
+  "version": "63fba9da372b",
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta",
+  "missing": [
+    10,
+    18
+  ],
+  "days": [
+    {
+      "day": 3,
+      "id": "day03",
+      "title": "예문 Drilling!",
+      "topic": "소유격/소유대명사",
+      "format": "sentence",
+      "count": 80,
+      "file": "data/day03.json"
+    },
+    {
+      "day": 4,
+      "id": "day04",
+      "title": "예문 Drilling!",
+      "topic": "형용사",
+      "format": "sentence",
+      "count": 72,
+      "file": "data/day04.json"
+    },
+    {
+      "day": 5,
+      "id": "day05",
+      "title": "예문 Drilling!",
+      "topic": "전치사구",
+      "format": "sentence",
+      "count": 72,
+      "file": "data/day05.json"
+    },
+    {
+      "day": 6,
+      "id": "day06",
+      "title": "예문 Drilling!",
+      "topic": "There is/There are/수량형용사",
+      "format": "sentence",
+      "count": 64,
+      "file": "data/day06.json"
+    },
+    {
+      "day": 7,
+      "id": "day07",
+      "title": "예문 Drilling!",
+      "topic": "일반동사/현재시제",
+      "format": "sentence",
+      "count": 64,
+      "file": "data/day07.json"
+    },
+    {
+      "day": 8,
+      "id": "day08",
+      "title": "예문 Drilling!",
+      "topic": "자동사와 타동사",
+      "format": "sentence",
+      "count": 64,
+      "file": "data/day08.json"
+    },
+    {
+      "day": 9,
+      "id": "day09",
+      "title": "예문 Drilling!",
+      "topic": "부사/빈도부사",
+      "format": "sentence",
+      "count": 56,
+      "file": "data/day09.json"
+    },
+    {
+      "day": 11,
+      "id": "day11",
+      "title": "예문 Drilling!",
+      "topic": "현재진행시제/상태동사",
+      "format": "sentence",
+      "count": 64,
+      "file": "data/day11.json"
+    },
+    {
+      "day": 12,
+      "id": "day12",
+      "title": "예문 Drilling!",
+      "topic": "과거시제",
+      "format": "sentence",
+      "count": 60,
+      "file": "data/day12.json"
+    },
+    {
+      "day": 13,
+      "id": "day13",
+      "title": "예문 Drilling!",
+      "topic": "be goint to",
+      "format": "sentence",
+      "count": 60,
+      "file": "data/day13.json"
+    },
+    {
+      "day": 14,
+      "id": "day14",
+      "title": "A/B 대화 Drilling!",
+      "topic": "의문사 의문문(1)",
+      "format": "dialogue",
+      "count": 39,
+      "file": "data/day14.json"
+    },
+    {
+      "day": 15,
+      "id": "day15",
+      "title": "A/B 대화 Drilling!",
+      "topic": "의문사 의문문(2)",
+      "format": "dialogue",
+      "count": 38,
+      "file": "data/day15.json"
+    },
+    {
+      "day": 16,
+      "id": "day16",
+      "title": "예문 Drilling!",
+      "topic": "의문사 의문문(3)",
+      "format": "mixed",
+      "count": 40,
+      "file": "data/day16.json"
+    },
+    {
+      "day": 17,
+      "id": "day17",
+      "title": "조동사 can Drilling!",
+      "topic": "조동사(Can/Could)",
+      "format": "sentence",
+      "count": 72,
+      "file": "data/day17.json"
+    },
+    {
+      "day": 19,
+      "id": "day19",
+      "title": "의무/충고 표현 Drilling!",
+      "topic": "반조동사(Have to/Need to/Should)",
+      "format": "sentence",
+      "count": 66,
+      "file": "data/day19.json",
+      "declaredCount": 60,
+      "warnings": [
+        "페이지 표기(60문장)와 실제 항목 수(66) 불일치"
+      ]
+    },
+    {
+      "day": 20,
+      "id": "day20",
+      "title": "want / would like / like Drilling!",
+      "topic": "Want/Like/Would like",
+      "format": "sentence",
+      "count": 72,
+      "file": "data/day20.json"
+    }
+  ]
+}

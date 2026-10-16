@@ -1,0 +1,491 @@
+{
+  "day": 12,
+  "id": "day12",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 60,
+  "declaredCount": 60,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day12/",
+  "items": [
+    {
+      "id": "day12:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나 오늘 아침에 손톱을 부러트렸어.",
+      "en": "I broke my nail this morning."
+    },
+    {
+      "id": "day12:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 오늘 아침에 손톱 부러트렸어?",
+      "en": "Did you break your nail this morning?"
+    },
+    {
+      "id": "day12:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나 오늘 아침에 손톱 부러트리지 않았어.",
+      "en": "I didn't break my nail this morning."
+    },
+    {
+      "id": "day12:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 오늘 아침에 손톱 부러트리지 않았어?",
+      "en": "Didn't you break your nail this morning?"
+    },
+    {
+      "id": "day12:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나 지난 토요일에 저 영화 봤어.",
+      "en": "I saw that movie last Saturday."
+    },
+    {
+      "id": "day12:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 지난 토요일에 저 영화 봤어?",
+      "en": "Did you see that movie last Saturday?"
+    },
+    {
+      "id": "day12:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "나 지난 토요일에 저 영화 안 봤어.",
+      "en": "I didn't see that movie last Saturday."
+    },
+    {
+      "id": "day12:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 지난 토요일에 저 영화 안 봤어?",
+      "en": "Didn't you see that movie last Saturday?"
+    },
+    {
+      "id": "day12:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "걔(여자)는 자기 아이디랑 비밀번호를 까먹었어.",
+      "en": "She forgot her username and password."
+    },
+    {
+      "id": "day12:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 아이디랑 비밀번호 까먹었어?",
+      "en": "Did she forget her username and password?"
+    },
+    {
+      "id": "day12:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 아이디랑 비밀번호 안 까먹었어.",
+      "en": "She didn't forget her username and password."
+    },
+    {
+      "id": "day12:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 아이디랑 비밀번호 안 까먹었어?",
+      "en": "Didn't she forget her username and password?"
+    },
+    {
+      "id": "day12:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "난 오늘 아침에 내 전화기를 떨어트렸어.",
+      "en": "I dropped my phone this morning."
+    },
+    {
+      "id": "day12:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 오늘 아침에 전화기 떨어트렸어?",
+      "en": "Did you drop your phone this morning?"
+    },
+    {
+      "id": "day12:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "나 오늘 아침에 전화기 안 떨어트렸어.",
+      "en": "I didn't drop my phone this morning."
+    },
+    {
+      "id": "day12:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 오늘 아침에 전화기 안 떨어트렸어?",
+      "en": "Didn't you drop your phone this morning?"
+    },
+    {
+      "id": "day12:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "나 어젯밤에 내 남자친구랑 싸웠어.",
+      "en": "I fought with my boyfriend last night."
+    },
+    {
+      "id": "day12:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "너 어젯밤에 남자친구랑 싸웠어?",
+      "en": "Did you fight with your boyfriend last night?"
+    },
+    {
+      "id": "day12:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "나 어젯밤에 내 남자친구랑 안 싸웠어.",
+      "en": "I didn't fight with my boyfriend last night."
+    },
+    {
+      "id": "day12:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "너 어젯밤에 남자친구랑 안 싸웠어?",
+      "en": "Didn't you fight with your boyfriend last night?"
+    },
+    {
+      "id": "day12:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자)는 고등학교 때 찌질이였어.",
+      "en": "He was a geek in high school."
+    },
+    {
+      "id": "day12:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자) 고등학교 때 찌질이였어?",
+      "en": "Was he a geek in high school?"
+    },
+    {
+      "id": "day12:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자) 고등학교 때 찌질이 아니었어.",
+      "en": "He wasn't a geek in high school."
+    },
+    {
+      "id": "day12:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "걔(남자) 고등학교 때 찌질이 아니었어?",
+      "en": "Wasn't he a geek in high school?"
+    },
+    {
+      "id": "day12:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "나는 어젯밤에 응급실에 갔었어.",
+      "en": "I went to the E.R. last night."
+    },
+    {
+      "id": "day12:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너 어젯밤에 응급실 갔었어?",
+      "en": "Did you go to the E.R. last night?"
+    },
+    {
+      "id": "day12:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "나 어젯밤에 응급실 안 갔었어.",
+      "en": "I didn't go to the E.R. last night."
+    },
+    {
+      "id": "day12:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "너 어젯밤에 응급실 안 갔었어?",
+      "en": "Didn't you go to the E.R. last night?"
+    },
+    {
+      "id": "day12:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Lincoln은 어제 감기 걸렸어.",
+      "en": "Lincoln caught a cold yesterday."
+    },
+    {
+      "id": "day12:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Lincoln 어제 감기 걸렸어?",
+      "en": "Did Lincoln catch a cold yesterday?"
+    },
+    {
+      "id": "day12:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Lincoln은 어제 감기 안 걸렸어.",
+      "en": "Lincoln didn't catch a cold yesterday."
+    },
+    {
+      "id": "day12:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Lincoln 어제 감기 안 걸렸어?",
+      "en": "Didn't Lincoln catch a cold yesterday?"
+    },
+    {
+      "id": "day12:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자)는 자기 shirt에 커피를 엎질렀어.",
+      "en": "She spilled coffee on her shirt."
+    },
+    {
+      "id": "day12:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 shirt에 커피 엎질렀어?",
+      "en": "Did she spill coffee on her shirt?"
+    },
+    {
+      "id": "day12:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 shirt에 커피 안 엎질렀어.",
+      "en": "She didn't spill coffee on her shirt."
+    },
+    {
+      "id": "day12:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 shirt에 커피 안 엎질렀어?",
+      "en": "Didn't she spill coffee on her shirt?"
+    },
+    {
+      "id": "day12:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "내 친구는 지하철에서 자기 휴대전화를 잃어버렸어.",
+      "en": "My friend lost his cell phone on the subway."
+    },
+    {
+      "id": "day12:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "네 친구 지하철에서 휴대전화 잃어버렸어?",
+      "en": "Did your friend lose his cell phone on the subway?"
+    },
+    {
+      "id": "day12:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "내 친구는 지하철에서 자기 휴대전화 안 잃어버렸어.",
+      "en": "My friend didn't lose his cell phone on the subway."
+    },
+    {
+      "id": "day12:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "네 친구 지하철에서 휴대전화 안 잃어버렸어?",
+      "en": "Didn't your friend lose his cell phone on the subway?"
+    },
+    {
+      "id": "day12:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔네들은 오늘 수업시간에 있었어.",
+      "en": "They were in class today."
+    },
+    {
+      "id": "day12:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔네 오늘 수업시간에 있었어?",
+      "en": "Were they in class today?"
+    },
+    {
+      "id": "day12:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔네들은 오늘 수업시간에 없었어.",
+      "en": "They weren't in class today."
+    },
+    {
+      "id": "day12:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "걔네 오늘 수업시간에 없었어?",
+      "en": "Weren't they in class today?"
+    },
+    {
+      "id": "day12:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔네들은 오늘 점심을 싸왔어.",
+      "en": "They brought their lunch today."
+    },
+    {
+      "id": "day12:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔네 오늘 점심 싸왔어?",
+      "en": "Did they bring their lunch today?"
+    },
+    {
+      "id": "day12:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔네들은 오늘 점심 안 싸왔어.",
+      "en": "They didn't bring their lunch today."
+    },
+    {
+      "id": "day12:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "걔네 오늘 점심 안 싸왔어?",
+      "en": "Didn't they bring their lunch today?"
+    },
+    {
+      "id": "day12:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "수업은 10분 전에 끝났어.",
+      "en": "The class finished 10 minutes ago."
+    },
+    {
+      "id": "day12:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "수업 10분 전에 끝났어?",
+      "en": "Did the class finish 10 minutes ago?"
+    },
+    {
+      "id": "day12:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "수업은 10분 전에 안 끝났어.",
+      "en": "The class didn't finish 10 minutes ago."
+    },
+    {
+      "id": "day12:13.(4)",
+      "num": "13.(4)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "수업 10분 전에 안 끝났어?",
+      "en": "Didn't the class finish 10 minutes ago?"
+    },
+    {
+      "id": "day12:14.(1)",
+      "num": "14.(1)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔(여자), 오늘 아침에 화장했어.",
+      "en": "She put on makeup this morning."
+    },
+    {
+      "id": "day12:14.(2)",
+      "num": "14.(2)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔(여자) 오늘 아침에 화장했어?",
+      "en": "Did she put on makeup this morning?"
+    },
+    {
+      "id": "day12:14.(3)",
+      "num": "14.(3)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔(여자) 오늘 아침에 화장 안 했어.",
+      "en": "She didn't put on makeup this morning."
+    },
+    {
+      "id": "day12:14.(4)",
+      "num": "14.(4)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔(여자) 오늘 아침에 화장 안 했어?",
+      "en": "Didn't she put on makeup this morning?"
+    },
+    {
+      "id": "day12:15.(1)",
+      "num": "15.(1)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "(그) 수업은 재밌었어.",
+      "en": "The class was interesting."
+    },
+    {
+      "id": "day12:15.(2)",
+      "num": "15.(2)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "그 수업 재밌었어?",
+      "en": "Was the class interesting?"
+    },
+    {
+      "id": "day12:15.(3)",
+      "num": "15.(3)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "(그) 수업은 재미없었어.",
+      "en": "The class wasn't interesting."
+    },
+    {
+      "id": "day12:15.(4)",
+      "num": "15.(4)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "그 수업 재미없었어? (재밌지 않았어?)",
+      "en": "Wasn't the class interesting?"
+    }
+  ]
+}

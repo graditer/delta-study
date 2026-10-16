@@ -1,0 +1,523 @@
+{
+  "day": 8,
+  "id": "day08",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 64,
+  "declaredCount": 64,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day08/",
+  "items": [
+    {
+      "id": "day08:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 주말에 TV 봐.",
+      "en": "I watch TV on the weekend."
+    },
+    {
+      "id": "day08:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 주말에 TV 봐?",
+      "en": "Do you watch TV on the weekend?"
+    },
+    {
+      "id": "day08:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "나는 주말에 TV 안 봐.",
+      "en": "I don't watch TV on the weekend."
+    },
+    {
+      "id": "day08:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 주말에 TV 안 봐?",
+      "en": "Don't you watch TV on the weekend?"
+    },
+    {
+      "id": "day08:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "난 내 친구들을 강남에서 만나.",
+      "en": "I meet my friends in Gangnam."
+    },
+    {
+      "id": "day08:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 친구들 강남에서 만나?",
+      "en": "Do you meet your friends in Gangnam?"
+    },
+    {
+      "id": "day08:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "난 내 친구들을 강남에서 안 만나.",
+      "en": "I don't meet my friends in Gangnam."
+    },
+    {
+      "id": "day08:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "너 친구들 강남에서 안 만나?",
+      "en": "Don't you meet your friends in Gangnam?"
+    },
+    {
+      "id": "day08:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나는 SUV를 몰아.",
+      "en": "I drive an SUV."
+    },
+    {
+      "id": "day08:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 SUV 몰아?",
+      "en": "Do you drive an SUV?"
+    },
+    {
+      "id": "day08:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "나는 SUV 안 몰아.",
+      "en": "I don't drive an SUV."
+    },
+    {
+      "id": "day08:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 SUV 안 몰아?",
+      "en": "Don't you drive an SUV?"
+    },
+    {
+      "id": "day08:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "나는 내 친구들하고 영어로 말해.",
+      "en": "I speak English with my friends."
+    },
+    {
+      "id": "day08:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 친구들하고 영어로 말해?",
+      "en": "Do you speak English with your friends?"
+    },
+    {
+      "id": "day08:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "나는 내 친구들하고 영어로 말 안 해.",
+      "en": "I don't speak English with my friends."
+    },
+    {
+      "id": "day08:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 친구들하고 영어로 말 안 해?",
+      "en": "Don't you speak English with your friends?"
+    },
+    {
+      "id": "day08:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "우리는 수업 후에 점심 먹어.",
+      "en": "We have lunch after class."
+    },
+    {
+      "id": "day08:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "우리 수업 후에 점심 먹어?",
+      "en": "Do we have lunch after class?"
+    },
+    {
+      "id": "day08:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "우리는 수업 후에 점심 안 먹어.",
+      "en": "We don't have lunch after class."
+    },
+    {
+      "id": "day08:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "우리 수업 후에 점심 안 먹어?",
+      "en": "Don't we have lunch after class?"
+    },
+    {
+      "id": "day08:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Robin은 Steve 수업 전에 문법을 설명해.",
+      "en": "Robin explains the grammar before Steve's class."
+    },
+    {
+      "id": "day08:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Robin이 Steve 수업 전에 문법 설명해?",
+      "en": "Does Robin explain the grammar before Steve's class?"
+    },
+    {
+      "id": "day08:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Robin은 Steve 수업 전에 문법 설명 안 해.",
+      "en": "Robin doesn't explain the grammar before Steve's class."
+    },
+    {
+      "id": "day08:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "Robin Steve 수업 전에 문법 설명 안 해?",
+      "en": "Doesn't Robin explain the grammar before Steve's class?"
+    },
+    {
+      "id": "day08:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(남자)는 식사 후에 비타민을 먹어.",
+      "en": "He takes vitamins after meals."
+    },
+    {
+      "id": "day08:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(남자) 식사 후에 비타민 먹어?",
+      "en": "Does he take vitamins after meals?"
+    },
+    {
+      "id": "day08:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(남자)는 식사 후에 비타민 안 먹어.",
+      "en": "He doesn't take vitamins after meals."
+    },
+    {
+      "id": "day08:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(남자) 식사 후에 비타민 안 먹어?",
+      "en": "Doesn't he take vitamins after meals?"
+    },
+    {
+      "id": "day08:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve는 아침에 커피를 마셔.",
+      "en": "Steve drinks coffee in the morning."
+    },
+    {
+      "id": "day08:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve 아침에 커피 마셔?",
+      "en": "Does Steve drink coffee in the morning?"
+    },
+    {
+      "id": "day08:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve는 아침에 커피 안 마셔.",
+      "en": "Steve doesn't drink coffee in the morning."
+    },
+    {
+      "id": "day08:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve 아침에 커피 안 마셔?",
+      "en": "Doesn't Steve drink coffee in the morning?"
+    },
+    {
+      "id": "day08:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자)는 자기 옷을 백화점에서 사.",
+      "en": "She buys her clothes at the department store."
+    },
+    {
+      "id": "day08:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 옷 백화점에서 사?",
+      "en": "Does she buy her clothes at the department store?"
+    },
+    {
+      "id": "day08:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자)는 자기 옷을 백화점에서 안 사.",
+      "en": "She doesn't buy her clothes at the department store."
+    },
+    {
+      "id": "day08:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(여자) 자기 옷 백화점에서 안 사?",
+      "en": "Doesn't she buy her clothes at the department store?"
+    },
+    {
+      "id": "day08:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "CV들은 수업 전에 출석을 불러.",
+      "en": "The CVs call roll before class."
+    },
+    {
+      "id": "day08:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "CV들이 수업 전에 출석 불러?",
+      "en": "Do the CVs call roll before class?"
+    },
+    {
+      "id": "day08:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "CV들은 수업 전에 출석 안 불러.",
+      "en": "The CVs don't call roll before class."
+    },
+    {
+      "id": "day08:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "CV들 수업 전에 출석 안 불러?",
+      "en": "Don't the CVs call roll before class?"
+    },
+    {
+      "id": "day08:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "거긴 일본 음식을 팔아.",
+      "en": "They serve Japanese food."
+    },
+    {
+      "id": "day08:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "거기 일본 음식 팔아?",
+      "en": "Do they serve Japanese food?"
+    },
+    {
+      "id": "day08:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "거긴 일본 음식 안 팔아.",
+      "en": "They don't serve Japanese food."
+    },
+    {
+      "id": "day08:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "거기 일본 음식 안 팔아?",
+      "en": "Don't they serve Japanese food?"
+    },
+    {
+      "id": "day08:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 학생들은 매일 대중교통을 이용해.",
+      "en": "The students use public transportation every day."
+    },
+    {
+      "id": "day08:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 학생들은 매일 대중교통 이용해?",
+      "en": "Do the students use public transportation every day?"
+    },
+    {
+      "id": "day08:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 학생들은 매일 대중교통 이용 안 해.",
+      "en": "The students don't use public transportation every day."
+    },
+    {
+      "id": "day08:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "그 학생들 매일 대중교통 이용 안 해?",
+      "en": "Don't the students use public transportation every day?"
+    },
+    {
+      "id": "day08:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔들은 Study hall에서 문장들을 반복해.",
+      "en": "They repeat the sentences in the study hall."
+    },
+    {
+      "id": "day08:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔네 Study hall에서 문장들 반복해?",
+      "en": "Do they repeat the sentences in the study hall?"
+    },
+    {
+      "id": "day08:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔들은 Study hall에서 문장들을 반복 안 해.",
+      "en": "They don't repeat the sentences in the study hall."
+    },
+    {
+      "id": "day08:13.(4)",
+      "num": "13.(4)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "걔네 Study hall에서 문장들 반복 안 해?",
+      "en": "Don't they repeat the sentences in the study hall?"
+    },
+    {
+      "id": "day08:14.(1)",
+      "num": "14.(1)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔들은 주말에 자기 빨래를 해.",
+      "en": "They do their laundry on the weekend."
+    },
+    {
+      "id": "day08:14.(2)",
+      "num": "14.(2)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔네 주말에 자기 빨래 해?",
+      "en": "Do they do their laundry on the weekend?"
+    },
+    {
+      "id": "day08:14.(3)",
+      "num": "14.(3)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔들은 주말에 자기 빨래 안 해.",
+      "en": "They don't do their laundry on the weekend."
+    },
+    {
+      "id": "day08:14.(4)",
+      "num": "14.(4)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "걔네 주말에 자기 빨래 안 해?",
+      "en": "Don't they do their laundry on the weekend?"
+    },
+    {
+      "id": "day08:15.(1)",
+      "num": "15.(1)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "나는 시간 있을 때 비디오 게임을 해.",
+      "en": "I play video games in my free time."
+    },
+    {
+      "id": "day08:15.(2)",
+      "num": "15.(2)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "너 시간 있을 때 비디오 게임 해?",
+      "en": "Do you play video games in your free time?"
+    },
+    {
+      "id": "day08:15.(3)",
+      "num": "15.(3)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "나는 시간 있을 때 비디오 게임 안 해.",
+      "en": "I don't play video games in my free time."
+    },
+    {
+      "id": "day08:15.(4)",
+      "num": "15.(4)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "너 시간 있을 때 비디오 게임 안 해?",
+      "en": "Don't you play video games in your free time?"
+    },
+    {
+      "id": "day08:16.(1)",
+      "num": "16.(1)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "나는 밤에 내 전화기를 충전해.",
+      "en": "I charge my phone at night."
+    },
+    {
+      "id": "day08:16.(2)",
+      "num": "16.(2)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "너 밤에 전화기 충전해?",
+      "en": "Do you charge your phone at night?"
+    },
+    {
+      "id": "day08:16.(3)",
+      "num": "16.(3)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "나는 밤에 내 전화기 충전 안 해.",
+      "en": "I don't charge my phone at night."
+    },
+    {
+      "id": "day08:16.(4)",
+      "num": "16.(4)",
+      "group": 16,
+      "type": "sentence",
+      "kr": "너 밤에 전화기 충전 안 해?",
+      "en": "Don't you charge your phone at night?"
+    }
+  ]
+}

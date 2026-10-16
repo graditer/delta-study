@@ -1,0 +1,9 @@
+# 설치 산출물
+node_modules/
+
+# macOS 시스템 파일
+.DS_Store
+
+# 임시 파일
+*.log
+.*-tmp.js

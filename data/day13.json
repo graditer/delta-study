@@ -1,0 +1,491 @@
+{
+  "day": 13,
+  "id": "day13",
+  "title": "예문 Drilling!",
+  "format": "sentence",
+  "count": 60,
+  "declaredCount": 60,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day13/",
+  "items": [
+    {
+      "id": "day13:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "난 오늘 일찍 퇴근할 거야.",
+      "en": "I'm going to finish work early today."
+    },
+    {
+      "id": "day13:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 오늘 일찍 퇴근할 거야?",
+      "en": "Are you going to finish work early today?"
+    },
+    {
+      "id": "day13:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "난 오늘 일찍 퇴근하지 않을 거야.",
+      "en": "I'm not going to finish work early today."
+    },
+    {
+      "id": "day13:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "sentence",
+      "kr": "너 오늘 일찍 퇴근하지 않을 거야?",
+      "en": "Aren't you going to finish work early today?"
+    },
+    {
+      "id": "day13:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "내일 비 올 거야.",
+      "en": "It's going to rain tomorrow."
+    },
+    {
+      "id": "day13:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "내일 비 올까? (비 올 거야?)",
+      "en": "Is it going to rain tomorrow?"
+    },
+    {
+      "id": "day13:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "내일 비 안 올 거야.",
+      "en": "It isn't going to rain tomorrow."
+    },
+    {
+      "id": "day13:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "sentence",
+      "kr": "내일 비 안 올까? (비 안 올 거야?)",
+      "en": "Isn't it going to rain tomorrow?"
+    },
+    {
+      "id": "day13:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "난 이번 휴가(방학)때 유럽으로 여행 갈 거야.",
+      "en": "I'm going to take a trip to Europe this vacation."
+    },
+    {
+      "id": "day13:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 이번 휴가(방학)때 유럽으로 여행 갈 거야?",
+      "en": "Are you going to take a trip to Europe this vacation?"
+    },
+    {
+      "id": "day13:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "난 이번 휴가(방학)때 유럽으로 여행 가지 않을 거야.",
+      "en": "I'm not going to take a trip to Europe this vacation."
+    },
+    {
+      "id": "day13:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "sentence",
+      "kr": "너 이번 휴가(방학)때 유럽으로 여행 가지 않을 거야?",
+      "en": "Aren't you going to take a trip to Europe this vacation?"
+    },
+    {
+      "id": "day13:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "난 다음 달에 단과반 들을 거야.",
+      "en": "I'm going to take an elective class next month."
+    },
+    {
+      "id": "day13:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 다음 달에 단과반 들을 거야?",
+      "en": "Are you going to take an elective class next month?"
+    },
+    {
+      "id": "day13:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "난 다음 달에 단과반 듣지 않을 거야.",
+      "en": "I'm not going to take an elective class next month."
+    },
+    {
+      "id": "day13:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "sentence",
+      "kr": "너 다음 달에 단과반 듣지 않을 거야?",
+      "en": "Aren't you going to take an elective class next month?"
+    },
+    {
+      "id": "day13:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "걔네들은 내일 아침에 늦을 거야.",
+      "en": "They're going to be late tomorrow morning."
+    },
+    {
+      "id": "day13:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "걔네 내일 아침에 늦을까? (늦을 거야?)",
+      "en": "Are they going to be late tomorrow morning?"
+    },
+    {
+      "id": "day13:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "걔네들은 내일 아침에 안 늦을 거야.",
+      "en": "They aren't going to be late tomorrow morning."
+    },
+    {
+      "id": "day13:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "sentence",
+      "kr": "걔네 내일 아침에 늦지 않을까? (안 늦을 거야?)",
+      "en": "Aren't they going to be late tomorrow morning?"
+    },
+    {
+      "id": "day13:6.(1)",
+      "num": "6.(1)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "택배는 내일 올 거야.",
+      "en": "The package is going to come tomorrow."
+    },
+    {
+      "id": "day13:6.(2)",
+      "num": "6.(2)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "택배 내일 올까? (올 거야?)",
+      "en": "Is the package going to come tomorrow?"
+    },
+    {
+      "id": "day13:6.(3)",
+      "num": "6.(3)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "택배는 내일 안 올 거야.",
+      "en": "The package isn't going to come tomorrow."
+    },
+    {
+      "id": "day13:6.(4)",
+      "num": "6.(4)",
+      "group": 6,
+      "type": "sentence",
+      "kr": "택배 내일 안 올까? (안 올 거야?)",
+      "en": "Isn't the package going to come tomorrow?"
+    },
+    {
+      "id": "day13:7.(1)",
+      "num": "7.(1)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자)는 6시에 집에서 나올 거야.",
+      "en": "She's going to leave her house at 6."
+    },
+    {
+      "id": "day13:7.(2)",
+      "num": "7.(2)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자) 6시에 집에서 나올 거야?",
+      "en": "Is she going to leave her house at 6?"
+    },
+    {
+      "id": "day13:7.(3)",
+      "num": "7.(3)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자)는 6시에 집에서 안 나올 거야.",
+      "en": "She isn't going to leave her house at 6."
+    },
+    {
+      "id": "day13:7.(4)",
+      "num": "7.(4)",
+      "group": 7,
+      "type": "sentence",
+      "kr": "걔(여자) 6시에 집에서 안 나올 거야?",
+      "en": "Isn't she going to leave her house at 6?"
+    },
+    {
+      "id": "day13:8.(1)",
+      "num": "8.(1)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve는 이번 휴일에 자기 친척집에 갈 거야.",
+      "en": "Steve's going to go to his relative's house this holiday."
+    },
+    {
+      "id": "day13:8.(2)",
+      "num": "8.(2)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve 이번 휴일에 친척집에 갈 거야?",
+      "en": "Is Steve going to go to his relative's house this holiday?"
+    },
+    {
+      "id": "day13:8.(3)",
+      "num": "8.(3)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve는 이번 휴일에 친척집에 안 갈 거야.",
+      "en": "Steve isn't going to go to his relative's house this holiday."
+    },
+    {
+      "id": "day13:8.(4)",
+      "num": "8.(4)",
+      "group": 8,
+      "type": "sentence",
+      "kr": "Steve 이번 휴일에 친척집에 안 갈 거야?",
+      "en": "Isn't Steve going to go to his relative's house this holiday?"
+    },
+    {
+      "id": "day13:9.(1)",
+      "num": "9.(1)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(남자)가 이번 금요일에 파티를 할 거야.",
+      "en": "He's going to have a party this Friday."
+    },
+    {
+      "id": "day13:9.(2)",
+      "num": "9.(2)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(남자) 이번 금요일에 파티 할 거래? (파티 할 거야?)",
+      "en": "Is he going to have a party this Friday?"
+    },
+    {
+      "id": "day13:9.(3)",
+      "num": "9.(3)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(남자)는 이번 금요일에 파티 안 할 거야.",
+      "en": "He isn't going to have a party this Friday."
+    },
+    {
+      "id": "day13:9.(4)",
+      "num": "9.(4)",
+      "group": 9,
+      "type": "sentence",
+      "kr": "걔(남자) 이번 금요일에 파티 안 할 거야?",
+      "en": "Isn't he going to have a party this Friday?"
+    },
+    {
+      "id": "day13:10.(1)",
+      "num": "10.(1)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "우리 엄마, 아빠가 날 가만두지 않으실 거야.",
+      "en": "My parents are going to kill me."
+    },
+    {
+      "id": "day13:10.(2)",
+      "num": "10.(2)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "너희 부모님이 너 가만 안 두실 것 같아? (가만두지 않으실 거야?)",
+      "en": "Are your parents going to kill you?"
+    },
+    {
+      "id": "day13:10.(3)",
+      "num": "10.(3)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "우리 엄마, 아빠가 날 가만두지 않으시진 않을 거야.",
+      "en": "My parents aren't going to kill me."
+    },
+    {
+      "id": "day13:10.(4)",
+      "num": "10.(4)",
+      "group": 10,
+      "type": "sentence",
+      "kr": "너희 부모님이 너 가만두지 않으실 것 같지 않니?",
+      "en": "Aren't your parents going to kill you?"
+    },
+    {
+      "id": "day13:11.(1)",
+      "num": "11.(1)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "우리 엄마는 오늘 밤에 반찬을 많이 만드실 거야.",
+      "en": "My mother is going to make a lot of side dishes tonight."
+    },
+    {
+      "id": "day13:11.(2)",
+      "num": "11.(2)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너희 어머니 오늘 밤에 반찬 많이 만드셔? (만드실 거야?)",
+      "en": "Is your mother going to make many side dishes tonight?"
+    },
+    {
+      "id": "day13:11.(3)",
+      "num": "11.(3)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "우리 엄마는 오늘 밤에 반찬 많이 안 만드실 거야.",
+      "en": "My mother isn't going to make many side dishes tonight."
+    },
+    {
+      "id": "day13:11.(4)",
+      "num": "11.(4)",
+      "group": 11,
+      "type": "sentence",
+      "kr": "너희 어머니 오늘 밤에 반찬 많이 안 만드실 거래? (안 만드실 거야?)",
+      "en": "Isn't your mother going to make many side dishes tonight?"
+    },
+    {
+      "id": "day13:12.(1)",
+      "num": "12.(1)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우린 오늘 밤에 남은 음식들을 다 먹을 거야.",
+      "en": "We're going to finish the leftovers tonight."
+    },
+    {
+      "id": "day13:12.(2)",
+      "num": "12.(2)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우리 오늘 밤에 남은 음식 다 먹을 거야?",
+      "en": "Are we going to finish the leftovers tonight?"
+    },
+    {
+      "id": "day13:12.(3)",
+      "num": "12.(3)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우린 오늘 밤에 남은 음식들을 다 먹지 않을 거야.",
+      "en": "We aren't going to finish the leftovers tonight."
+    },
+    {
+      "id": "day13:12.(4)",
+      "num": "12.(4)",
+      "group": 12,
+      "type": "sentence",
+      "kr": "우리 오늘 밤에 남은 음식 다 안 먹을 거야?",
+      "en": "Aren't we going to finish the leftovers tonight?"
+    },
+    {
+      "id": "day13:13.(1)",
+      "num": "13.(1)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "너, (그러다) 혼나겠다.",
+      "en": "You're going to get in trouble."
+    },
+    {
+      "id": "day13:13.(2)",
+      "num": "13.(2)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "나 혼날까? (혼나겠어?)",
+      "en": "Am I going to get in trouble?"
+    },
+    {
+      "id": "day13:13.(3)",
+      "num": "13.(3)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "너 안 혼날 거야.",
+      "en": "You aren't going to get in trouble."
+    },
+    {
+      "id": "day13:13.(4)",
+      "num": "13.(4)",
+      "group": 13,
+      "type": "sentence",
+      "kr": "나 혼나지 않을까? (혼나지 않겠어?)",
+      "en": "Aren't I going to get in trouble?"
+    },
+    {
+      "id": "day13:14.(1)",
+      "num": "14.(1)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "학생들은 오늘 시험을 볼 거야.",
+      "en": "The students are going to take the test today."
+    },
+    {
+      "id": "day13:14.(2)",
+      "num": "14.(2)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "학생들 오늘 시험 볼까? (시험 볼 거야?)",
+      "en": "Are the students going to take the test today?"
+    },
+    {
+      "id": "day13:14.(3)",
+      "num": "14.(3)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "학생들은 오늘 시험 안 볼 거야.",
+      "en": "The students aren't going to take the test today."
+    },
+    {
+      "id": "day13:14.(4)",
+      "num": "14.(4)",
+      "group": 14,
+      "type": "sentence",
+      "kr": "학생들 오늘 시험 안 봐? (시험 안 볼 거야?)",
+      "en": "Aren't the students going to take the test today?"
+    },
+    {
+      "id": "day13:15.(1)",
+      "num": "15.(1)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔네들, 이번 주말에 영화 보러 갈 거야.",
+      "en": "They're going to go to the movies this weekend."
+    },
+    {
+      "id": "day13:15.(2)",
+      "num": "15.(2)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔네 이번 주말에 영화 보러 갈 거래? (갈 거야?)",
+      "en": "Are they going to go to the movies this weekend?"
+    },
+    {
+      "id": "day13:15.(3)",
+      "num": "15.(3)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔네들 이번 주말에 영화 보러 안 갈 거야.",
+      "en": "They aren't going to go to the movies this weekend."
+    },
+    {
+      "id": "day13:15.(4)",
+      "num": "15.(4)",
+      "group": 15,
+      "type": "sentence",
+      "kr": "걔네 이번 주말에 영화 보러 안 갈 거야?",
+      "en": "Aren't they going to go to the movies this weekend?"
+    }
+  ]
+}

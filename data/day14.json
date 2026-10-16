@@ -1,0 +1,401 @@
+{
+  "day": 14,
+  "id": "day14",
+  "title": "A/B 대화 Drilling!",
+  "format": "dialogue",
+  "count": 39,
+  "declaredCount": 39,
+  "source": "https://derek7688.github.io/my-english-trainers/PSE%20Regular/Delta/Day14/",
+  "items": [
+    {
+      "id": "day14:1.(1)",
+      "num": "1.(1)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너, 뭐 시켰어?",
+      "a_en": "What did you order?",
+      "b_kr": "난 치킨 샐러드 시켰어.",
+      "b_en": "I ordered the chicken salad."
+    },
+    {
+      "id": "day14:1.(2)",
+      "num": "1.(2)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너 뭐 살 거야?",
+      "a_en": "What are you going to get?",
+      "b_kr": "나, 새로운 카메라를 살 거야.",
+      "b_en": "I'm going to get a new camera."
+    },
+    {
+      "id": "day14:1.(3)",
+      "num": "1.(3)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "네 남자친구 뭐하는 사람이야?",
+      "a_en": "What does your boyfriend do?",
+      "b_kr": "걔(남자), 요리사야.",
+      "b_en": "He's a chef."
+    },
+    {
+      "id": "day14:1.(4)",
+      "num": "1.(4)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너 혈액형이 뭐야?",
+      "a_en": "What is your blood type?",
+      "b_kr": "내 혈액형은 B형이야.",
+      "b_en": "My blood type is B."
+    },
+    {
+      "id": "day14:1.(5)",
+      "num": "1.(5)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "너, 뭐 필요해?",
+      "a_en": "What do you need?",
+      "b_kr": "나, 네 도움이 필요해.",
+      "b_en": "I need your help."
+    },
+    {
+      "id": "day14:1.(6)",
+      "num": "1.(6)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "걔네들, 뭐 볼 거야?",
+      "a_en": "What are they going to watch?",
+      "b_kr": "걔네들, TV 프로 볼 거야.",
+      "b_en": "They are going to watch a TV show."
+    },
+    {
+      "id": "day14:1.(7)",
+      "num": "1.(7)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "학생들이 뭘 깜빡했어?",
+      "a_en": "What did the students forget?",
+      "b_kr": "걔네들, 숙제를 깜빡했어.",
+      "b_en": "They forgot their homework."
+    },
+    {
+      "id": "day14:1.(8)",
+      "num": "1.(8)",
+      "group": 1,
+      "type": "dialogue",
+      "a_kr": "걔(여자)가 뭘 이해 못 했어?",
+      "a_en": "What didn't she understand?",
+      "b_kr": "걔(여자), 오늘 수업을 이해를 못 했어.",
+      "b_en": "She didn't understand today's class."
+    },
+    {
+      "id": "day14:2.(1)",
+      "num": "2.(1)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "네가 가장 좋아하는 남자배우는 누구야?",
+      "a_en": "Who is your favorite actor?",
+      "b_kr": "내가 가장 좋아하는 남자배우는 톰 행크스야.",
+      "b_en": "My favorite actor is Tom Hanks."
+    },
+    {
+      "id": "day14:2.(2)",
+      "num": "2.(2)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 누구를 믿니?",
+      "a_en": "Who do you believe?",
+      "b_kr": "난 너를 믿어.",
+      "b_en": "I believe you."
+    },
+    {
+      "id": "day14:2.(3)",
+      "num": "2.(3)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 누구한테 문자하고 있어?",
+      "a_en": "Who are you texting?",
+      "b_kr": "내 여자친구한테 문자하고 있어.",
+      "b_en": "I'm texting my girlfriend."
+    },
+    {
+      "id": "day14:2.(4)",
+      "num": "2.(4)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "걔들은 누구를 초대했어?",
+      "a_en": "Who did they invite?",
+      "b_kr": "걔들은 걔들 친구들을 초대했어.",
+      "b_en": "They invited their friends."
+    },
+    {
+      "id": "day14:2.(5)",
+      "num": "2.(5)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "걔(남자)가 누구를 찾아 갈 거야?",
+      "a_en": "Who is he going to visit?",
+      "b_kr": "걔(남자)는 자기 부모님을 찾아 갈 거야.",
+      "b_en": "He's going to visit his parents."
+    },
+    {
+      "id": "day14:2.(6)",
+      "num": "2.(6)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 누구 만날 거야?",
+      "a_en": "Who are you going to see?",
+      "b_kr": "나, 우리 조원들 만날 거야.",
+      "b_en": "I'm going to see my group members."
+    },
+    {
+      "id": "day14:2.(7)",
+      "num": "2.(7)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "걔(여자)가 누굴 좋아했어?",
+      "a_en": "Who did she like?",
+      "b_kr": "걔(여자), William 좋아했어.",
+      "b_en": "She liked William."
+    },
+    {
+      "id": "day14:2.(8)",
+      "num": "2.(8)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "너, 누가 보고 싶어?",
+      "a_en": "Who do you miss?",
+      "b_kr": "내 고등학교 때 친구들이 보고 싶어.",
+      "b_en": "I miss my high school friends."
+    },
+    {
+      "id": "day14:2.(9)",
+      "num": "2.(9)",
+      "group": 2,
+      "type": "dialogue",
+      "a_kr": "선생님(남자)이 누구를 부르고 계셔?",
+      "a_en": "Who is the teacher calling?",
+      "b_kr": "Chris를 부르고 계셔.",
+      "b_en": "He is calling Chris."
+    },
+    {
+      "id": "day14:3.(1)",
+      "num": "3.(1)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 아침으로 뭐 먹어?",
+      "a_en": "What do you have for breakfast?",
+      "b_kr": "cereal 먹어.",
+      "b_en": "I have cereal."
+    },
+    {
+      "id": "day14:3.(2)",
+      "num": "3.(2)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "걔(남자)는 생일 선물로 뭘 갖고 싶어 해?",
+      "a_en": "What does he want for his birthday?",
+      "b_kr": "새 컴퓨터를 갖고 싶어 해.",
+      "b_en": "He wants a new computer."
+    },
+    {
+      "id": "day14:3.(3)",
+      "num": "3.(3)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너희 엄마는 저녁으로 뭐 만들고 계셔?",
+      "a_en": "What is your mother making for dinner?",
+      "b_kr": "pasta 만들고 계셔.",
+      "b_en": "She is making pasta."
+    },
+    {
+      "id": "day14:3.(4)",
+      "num": "3.(4)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 그 파티에 뭐 입고 갔어?",
+      "a_en": "What did you wear to the party?",
+      "b_kr": "나, 원피스 입었어.",
+      "b_en": "I wore a dress."
+    },
+    {
+      "id": "day14:3.(5)",
+      "num": "3.(5)",
+      "group": 3,
+      "type": "dialogue",
+      "a_kr": "너, 이번 주말에 뭐 할 거야?",
+      "a_en": "What are you going to do this weekend?",
+      "b_kr": "나 내 친구들하고 여행 갈 거야.",
+      "b_en": "I'm going to go on a trip with my friends."
+    },
+    {
+      "id": "day14:4.(1)",
+      "num": "4.(1)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "너, 어젯밤에 누구 만났어?",
+      "a_en": "Who did you meet last night?",
+      "b_kr": "나, 내 친구들 만났어.",
+      "b_en": "I met my friends."
+    },
+    {
+      "id": "day14:4.(2)",
+      "num": "4.(2)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "걔(남자), 공항에서 누굴 태워서 올 거야?",
+      "a_en": "Who is he going to pick up at the airport?",
+      "b_kr": "걔(남자), 자기 여자친구를 태워서 올 거야.",
+      "b_en": "He's going to pick up his girlfriend."
+    },
+    {
+      "id": "day14:4.(3)",
+      "num": "4.(3)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "너 이 사진 속에서 누구를 알아?",
+      "a_en": "Who do you know in this picture?",
+      "b_kr": "나, 모두 다 알아.",
+      "b_en": "I know everyone."
+    },
+    {
+      "id": "day14:4.(4)",
+      "num": "4.(4)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "걔(여자)가, 파티에 누굴 데려왔어?",
+      "a_en": "Who did she bring to the party?",
+      "b_kr": "걔(여자), 자기의 가장 친한 친구를 데려왔어.",
+      "b_en": "She brought her best friend."
+    },
+    {
+      "id": "day14:4.(5)",
+      "num": "4.(5)",
+      "group": 4,
+      "type": "dialogue",
+      "a_kr": "Steve가 지금 교실에서 누굴 도와주고 있어?",
+      "a_en": "Who is Steve helping in the classroom now?",
+      "b_kr": "학생을 도와주고 있어.",
+      "b_en": "He's helping a student."
+    },
+    {
+      "id": "day14:5.(1)",
+      "num": "5.(1)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "아이스크림 먹을 사람?",
+      "a_en": "Who wants ice cream?",
+      "b_kr": "나.",
+      "b_en": "I do."
+    },
+    {
+      "id": "day14:5.(2)",
+      "num": "5.(2)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누가 (그) 선생님이랑 이야기 하고 있어?",
+      "a_en": "Who is talking with the teacher?",
+      "b_kr": "그 SC가.",
+      "b_en": "The SC is."
+    },
+    {
+      "id": "day14:5.(3)",
+      "num": "5.(3)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누가 내 샌드위치 먹었어?",
+      "a_en": "Who ate my sandwich?",
+      "b_kr": "내가.",
+      "b_en": "I did."
+    },
+    {
+      "id": "day14:5.(4)",
+      "num": "5.(4)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "뭐가 널 신경 쓰이게 하고 있어?",
+      "a_en": "What is bothering you?",
+      "b_kr": "그 시험이.",
+      "b_en": "The test is."
+    },
+    {
+      "id": "day14:5.(5)",
+      "num": "5.(5)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "네 가방 안에 뭐가 있어?",
+      "a_en": "What is in your bag?",
+      "b_kr": "내 물건들.",
+      "b_en": "My things are."
+    },
+    {
+      "id": "day14:5.(6)",
+      "num": "5.(6)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "뭐가 비쌌어?",
+      "a_en": "What was expensive?",
+      "b_kr": "이 (손목)시계가.",
+      "b_en": "This watch was."
+    },
+    {
+      "id": "day14:5.(7)",
+      "num": "5.(7)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누가 네 머리를 잘랐어?",
+      "a_en": "Who cut your hair?",
+      "b_kr": "우리 엄마가.",
+      "b_en": "My mother did."
+    },
+    {
+      "id": "day14:5.(8)",
+      "num": "5.(8)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누가 너를 데리러 올 거야?",
+      "a_en": "Who is going to pick you up?",
+      "b_kr": "내 남편이.",
+      "b_en": "My husband is."
+    },
+    {
+      "id": "day14:5.(9)",
+      "num": "5.(9)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "내 빨래 누가 했어?",
+      "a_en": "Who did my laundry?",
+      "b_kr": "네 언니가.",
+      "b_en": "Your sister did."
+    },
+    {
+      "id": "day14:5.(10)",
+      "num": "5.(10)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누가 문법을 가르쳐?",
+      "a_en": "Who teaches the grammar?",
+      "b_kr": "Robin이.",
+      "b_en": "Robin does."
+    },
+    {
+      "id": "day14:5.(11)",
+      "num": "5.(11)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "뭐가 시작할거야?",
+      "a_en": "What is going to start?",
+      "b_kr": "영화가.",
+      "b_en": "The movie is."
+    },
+    {
+      "id": "day14:5.(12)",
+      "num": "5.(12)",
+      "group": 5,
+      "type": "dialogue",
+      "a_kr": "누가 이길까?",
+      "a_en": "Who is going to win?",
+      "b_kr": "내가.",
+      "b_en": "I am."
+    }
+  ]
+}
