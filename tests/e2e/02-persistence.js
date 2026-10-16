@@ -1,7 +1,8 @@
 // 2단계 검증: node run2.js <file-url>
 const { chromium } = require('playwright-core');
 const CHROME = process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
-const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES_study_app_delta.html'; // serve.js 로 띄운 주소
+const withDay8 = u => { const x = new URL(u); if (!x.searchParams.has('day')) x.searchParams.set('day', '8'); return x.href; }; // 이 묶음은 Day 08을 기준으로 검사한다
+const url = withDay8(process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES_study_app_delta.html'); // serve.js 로 띄운 주소
 
 (async () => {
   const browser = await chromium.launch({ executablePath: CHROME, headless: true, args: ['--no-sandbox'] });
@@ -139,6 +140,29 @@ const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES
   check('cancel (null) closes silently: no alert, no navigation', dialogs2.length === 1 && dialogs2[0].type === 'prompt' && !navigated);
 
   check('no page errors', errors.length === 0, errors.join(' | '));
+  // 6. 홈 복귀 시 설정 복원: 학습모드·필터·영작·반복 단위가 설정 화면에 그대로 나온다
+  {
+    const ctx6 = await browser.newContext({ viewport: { width: 390, height: 844 } });
+    const p6 = await ctx6.newPage();
+    p6.on('dialog', d => d.accept());
+    await p6.goto(url, { waitUntil: 'load' });
+    await p6.waitForFunction(() => dayItems.length > 0);
+    await p6.click('#tab-random');
+    await p6.click('#parity-odd');
+    await p6.click('#grade-mode-btn');
+    await p6.evaluate(() => { document.getElementById('chunk-slider').value = '6'; updateChunkDisplay('6'); });
+    await p6.click('text=연습 새로 시작하기');
+    await p6.waitForFunction(() => !document.getElementById('study-screen').classList.contains('hidden'));
+    await Promise.all([p6.waitForNavigation({ waitUntil: 'load' }), p6.click('button[onclick="goHome()"]')]);
+    await p6.waitForFunction(() => dayItems.length > 0);
+    const st = await p6.evaluate(() => ({ play: playMode, parity, grade: gradeOn, chunk: selectedChunkSize, slider: document.getElementById('chunk-slider').value }));
+    check('home restores learning mode (random)', st.play === 'random', JSON.stringify(st));
+    check('home restores parity filter (odd)', st.parity === 'odd');
+    check('home restores 영작 mode (on)', st.grade === true);
+    check('home restores repeat unit (6)', st.chunk === 6 && st.slider === '6');
+    await ctx6.close();
+  }
+
   console.log(results.join('\n'));
   await browser.close();
 })().catch(e => { console.error('TEST CRASH', e); process.exit(1); });

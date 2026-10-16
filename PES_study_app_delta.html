@@ -559,7 +559,7 @@
         const APP_NAME = 'Delta 스터디'; // 앱 이름 (배지·탭 제목)
         // 📊 방문 집계 설정 (기본은 꺼짐). url·key·hosts를 채워야 전송한다. 설정 방법은 docs/ANALYTICS.md
         const TRACK_CONFIG = { url: 'https://gftffitcsadeyhflbwjb.supabase.co', key: 'sb_publishable_LG3QAdFHFpKL2zm25TZ9wQ_DCKrqHi_', hosts: ['graditer.github.io'] }; // url: Supabase 주소, key: anon 공개 키, hosts: 전송을 허용할 배포 호스트
-        const DEFAULT_DAY_ID = 'day08';
+        const DEFAULT_DAY_ID = 'day03'; // 처음 진입 시 기본 Day
         let manifest = null;
         let scope = 'single';          // 'single': Day 하나 | 'range': 시작~끝 기간
         let selStart = DEFAULT_DAY_ID; // 선택한 시작 Day (manifest의 id)
@@ -703,6 +703,17 @@
         function applyDayUI() {
             updateTitles();
             applyLadderDefaults();
+        }
+
+        // 홈으로 돌아왔을 때: 진행 중이던 연습의 설정(학습모드, 문제 범위, 필터, 반복 단위, 영작)을 설정 화면에 그대로 되돌린다
+        function restoreSettingsFromProgress() {
+            const saved = loadProgress();
+            if (!saved) return;
+            playMode = saved.playMode || 'ladder';
+            poolMode = saved.poolMode || 'all';
+            parity = saved.parity || 'all';
+            selectedChunkSize = saved.chunkSize ?? 4;
+            gradeOn = !!saved.grade;
         }
 
         function updateResumeButton() {
@@ -1376,6 +1387,7 @@
             migrateProgress();
             loadAllWrong();
             applyDayUI();
+            restoreSettingsFromProgress(); // 기본값(applyDayUI) 다음에 덮어써야 한다
             renderSelectors();
             applyGradeUI();
             refreshSetup();

@@ -2,7 +2,8 @@
 // usage: node 04-data-layer.js [app-url]
 const { chromium } = require('playwright-core');
 const CHROME = process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
-const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES_study_app_delta.html';
+const withDay8 = u => { const x = new URL(u); if (!x.searchParams.has('day')) x.searchParams.set('day', '8'); return x.href; }; // 이 묶음은 Day 08을 기준으로 검사한다
+const url = withDay8(process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES_study_app_delta.html');
 
 (async () => {
   const browser = await chromium.launch({ executablePath: CHROME, headless: true, args: ['--no-sandbox'] });

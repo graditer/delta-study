@@ -29,8 +29,8 @@ const at = (extra) => { const u = new URL(baseRaw); for (const [k, v] of Object.
   const singleVals = await optionValues(page, '#day-select');
   check('single dropdown lists 16 playable Days', singleVals.length === 16, String(singleVals.length));
   check('Day10 and Day18 are not in the list', !singleVals.includes('day10') && !singleVals.includes('day18'));
-  check('default title: Day 08 (총 64문장)', (await title(page)) === 'Day 08 (총 64문장)', await title(page));
-  check('default hint shows 320 steps (default chunk 4)', (await page.textContent('#setup-hint')).includes('총 320단계'), await page.textContent('#setup-hint'));
+  check('default title: Day 03 (총 80문장)', (await title(page)) === 'Day 03 (총 80문장)', await title(page));
+  check('default hint shows 400 steps (Day03, default chunk 4)', (await page.textContent('#setup-hint')).includes('총 400단계'), await page.textContent('#setup-hint'));
 
   // 2. 단일 Day 드롭다운 변경 → 제목 갱신
   await page.selectOption('#day-select', 'day19');

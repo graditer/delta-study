@@ -1,7 +1,8 @@
 // 3단계 검증: node run3.js <file-url>
 const { chromium } = require('playwright-core');
 const CHROME = process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
-const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES_study_app_delta.html'; // serve.js 로 띄운 주소
+const withDay8 = u => { const x = new URL(u); if (!x.searchParams.has('day')) x.searchParams.set('day', '8'); return x.href; }; // 이 묶음은 Day 08을 기준으로 검사한다
+const url = withDay8(process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES_study_app_delta.html'); // serve.js 로 띄운 주소
 
 (async () => {
   const browser = await chromium.launch({ executablePath: CHROME, headless: true, args: ['--no-sandbox'] });
@@ -108,7 +109,7 @@ const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES
   await page.click('button[title="홈 (진행 저장 유지)"]');
   await page.waitForTimeout(800);
   await page.click('#pool-wrong');
-  await page.click('#grade-mode-btn');
+  if (!(await page.evaluate(() => gradeOn))) await page.click('#grade-mode-btn'); // 홈 복귀 시 영작 설정이 복원되므로, 꺼져 있을 때만 켠다
   await page.click('text=연습 새로 시작하기');
   await page.keyboard.type('Do you watch TV on the weekend?');
   await page.keyboard.press('Enter');
@@ -135,7 +136,7 @@ const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES
   await page.reload({ waitUntil: 'load' });
   await page.waitForFunction(() => dayItems.length > 0);
   await page.waitForTimeout(500);
-  await page.click('#grade-mode-btn');
+  if (!(await page.evaluate(() => gradeOn))) await page.click('#grade-mode-btn'); // 홈 복귀 후 설정이 복원되므로 꺼져 있을 때만 켠다
   await page.click('text=연습 새로 시작하기');
   await page.keyboard.press('Space'); await page.keyboard.press('Space');
   await page.reload({ waitUntil: 'load' });
