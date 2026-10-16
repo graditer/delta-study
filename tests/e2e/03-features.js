@@ -90,10 +90,10 @@ const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES
   check('empty answer not judged', !(await visible('#judge-text')));
   check('empty answer not stored as wrong', (await wrongStored()).length === 1);
 
-  // 6. 명시적 종료 → 저장 삭제 + 오답 목록 유지
-  await page.click('button[title="종료 (진행 저장 삭제)"]');
+  // 6. 홈 → 진행 유지(이어하기 가능) + 오답 목록 유지
+  await page.click('button[title="홈 (진행 저장 유지)"]');
   await page.waitForTimeout(800);
-  check('quit clears progress (no resume button)', !(await visible('#resume-btn')));
+  check('home keeps progress (resume button shown)', await visible('#resume-btn'));
   check('quit keeps wrong list: wrong tab enabled', !(await page.isDisabled('#pool-wrong')));
   check('wrong count shows 1 after quit', (await text('#wrong-count')) === '1');
 
@@ -105,7 +105,7 @@ const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES
   check('progress bar width not NaN for 1 item', !barW.includes('NaN'), barW);
   check('badge shows 오답', (await text('#badge-playmode')).includes('오답'));
   // 같은 문항을 정답으로 맞히면 오답 목록에서 제거됨
-  await page.click('button[title="종료 (진행 저장 삭제)"]');
+  await page.click('button[title="홈 (진행 저장 유지)"]');
   await page.waitForTimeout(800);
   await page.click('#pool-wrong');
   await page.click('#grade-mode-btn');
@@ -116,7 +116,7 @@ const url = process.argv[2] || process.env.APP_URL || 'http://127.0.0.1:8123/PES
   check('correct retry removes item from wrong list', (await wrongStored()).length === 0);
 
   // 8. 틀린 문제 0개 → 오답 범위 비활성 & 선택 시 방어
-  await page.click('button[title="종료 (진행 저장 삭제)"]');
+  await page.click('button[title="홈 (진행 저장 유지)"]');
   await page.waitForTimeout(800);
   check('wrong pool disabled again after clearing', await page.isDisabled('#pool-wrong'));
 

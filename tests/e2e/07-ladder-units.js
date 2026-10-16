@@ -22,7 +22,7 @@ const at = (extra) => { const u = new URL(baseRaw); for (const [k, v] of Object.
   };
   const setChunk = (page, v) => page.evaluate(v => { document.getElementById('chunk-slider').value = String(v); updateChunkDisplay(String(v)); }, v);
   const total = async page => { await page.click('text=연습 새로 시작하기'); const t = await page.textContent('#progress-text'); return parseInt(t.split('/')[1], 10); };
-  const back = async page => { await page.click('button[title="종료 (진행 저장 삭제)"]'); await page.waitForTimeout(500); await page.waitForFunction(() => dayItems.length > 0); };
+  const back = async page => { await page.click('button[title="홈 (진행 저장 유지)"]'); await page.waitForTimeout(500); await page.waitForFunction(() => dayItems.length > 0); };
 
   // 1. 기본값은 4, 교재 순(0)으로 바꾸면 기대 단계 수
   const expect = { day08: 320, day17: 504, day19: 582, day09: 249 };

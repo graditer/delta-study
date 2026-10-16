@@ -104,7 +104,7 @@ const at = (extra) => { const u = new URL(baseRaw); for (const [k, v] of Object.
   check('resume button shows saved range and position', (await page.textContent('#resume-btn')).includes('Step 1 / 400'), await page.textContent('#resume-btn'));
   await page.click('#resume-btn');
   check('resume goes to the saved Day03 session', (await page.textContent('#progress-text')).includes('/ 400'), await page.textContent('#progress-text'));
-  await page.click('button[title="종료 (진행 저장 삭제)"]');
+  await page.click('button[title="홈 (진행 저장 유지)"]');
   await page.waitForTimeout(500);
   await page.waitForFunction(() => dayItems.length > 0);
 
